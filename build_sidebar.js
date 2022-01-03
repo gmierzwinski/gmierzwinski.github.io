@@ -13,6 +13,7 @@ const SIDEBAR_CONTENTS = {
 			Labs: "labs.html",
 			"Final Project": "final_project.html",
 			References: "references.html",
+			"Style Guidelines": "style_guidelines.html",
 			Contact: "contact.html"
 		}
 	}
