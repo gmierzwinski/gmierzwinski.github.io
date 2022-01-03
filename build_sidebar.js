@@ -1,7 +1,8 @@
-
 /*
 Build up the sidebar for the given page.
 */
+
+const ROOT = "gmierzwinski.github.io";
 
 const SIDEBAR_CONTENTS = {
 	bishops: {
@@ -21,24 +22,35 @@ let SIDEBAR_ENTRY = '<div class=".sidebar_text">| <a href="{0}">{1} </a>&nbsp;</
 
 let SIDEBAR_TITLE = `
 	<a href="http://cs.ubishops.ca/" alt="CS @ Bishop's University">
-		<img src="resources/BU-logo-purpleHR.png" id="bu_logo" alt="Bishop's University"></img>
+		<img src="{0}images/BU-logo-purpleHR.png" id="bu_logo" alt="Bishop's University"></img>
 	</a>
 	<div id="namediv">
 	    CS321 <br> Advanced Programming <br>Techniques <br>
 	</div>
 `
 
-// Ensure we can format strings
-if (!String.format) {
-	String.format = function(format) {
-		var args = Array.prototype.slice.call(arguments, 1);
-		return format.replace(/{(\d+)}/g, function(match, number) { 
-			return typeof args[number] != 'undefined'
-				? args[number] 
-				: match
-			;
-		});
-	};
+function run_setup() {
+	// Ensure we can format strings
+	if (!String.format) {
+		String.format = function(format) {
+			var args = Array.prototype.slice.call(arguments, 1);
+			return format.replace(/{(\d+)}/g, function(match, number) { 
+				return typeof args[number] != 'undefined'
+					? args[number] 
+					: match
+				;
+			});
+		};
+	}
+
+	// Setup the paths for the images
+	let img_location = "";
+	for (let i of window.location.href.split("/").reverse()) {
+		if (i.includes(".html") || i == "") continue;
+		if (i == ROOT) break;
+		img_location += "../";
+	}
+	SIDEBAR_TITLE = String.format(SIDEBAR_TITLE, img_location);
 }
 
 
@@ -66,6 +78,8 @@ function build_sidebar() {
 }
 
 
+// Setup the sidebar, then populate it
+run_setup();
 window.addEventListener("load", function () {
 	build_sidebar();
 });

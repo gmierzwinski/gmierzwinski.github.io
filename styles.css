@@ -1,0 +1,194 @@
+html {
+    overflow-y: scroll;
+    overflow-x: auto;
+}
+
+body {
+    overflow-y: hidden;
+    overflow-x: hidden;
+    min-height:100%;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition: all 0.5s linear;
+    transition-property: background-color, color;
+}
+
+.button:hover {
+    background-color: black;
+    color: #4CAF50;
+}
+
+.wrapper {
+    vertical-align: bottom;
+}
+
+#aside {
+    background-image: url('images/sidebars2-min.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left; 
+    background-size: 50% 100%;
+    position: fixed;
+    max-height: 100%;
+    min-height: 100%;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    top: 0;
+    left: 0;
+}
+
+#aside_cover {
+    background-color: transparent;
+    margin: 5%;
+    min-height: 100%;
+    max-height: 100%;
+    max-width: 95%;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    font-weight: 300;
+    font-family: "Lato","Helvetica Neue",sans-serif;
+    font-size: 200%;
+}
+
+.sidebar-nav {
+    border-top: 1px solid rgba(255,255,255,0.5);
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: rgba(255, 255, 255, 0.5);
+    font-size: .50em;
+    color:ghostwhite;
+    min-width: 75%;
+    max-width: 75%;
+    margin:0;
+    padding-top: 5%;
+    padding-left: 2%;
+    clear: both;
+    transition: color 0.5s linear;
+    line-height:150%;
+    display: block;
+}
+
+.sidebar-nav:hover {
+    color: deepskyblue;
+}
+
+.sidebar_text { }
+
+#namediv {
+    color:white;
+    margin-top:12%;
+    margin-bottom:3%;
+}
+
+#section {
+    margin-left: 29%;
+    margin-top: 2%;
+    font-weight: 300;
+    font-family: "Lato","Helvetica Neue",sans-serif;
+    font-size: 200%;
+}
+
+a {
+    color: ghostwhite;
+    transition: color 0.5s linear;            
+    text-decoration: none;
+}
+
+a:hover {
+    color: lightskyblue;
+}
+
+#a_section_link {
+    color: gray;
+    transition: color 0.15s linear;            
+    text-decoration: none;
+}
+
+#a_section_link:hover {
+    color: blue;
+}
+
+#dateline {
+    color:gray;
+    font-size: 0.70em;
+}
+
+#section-title {
+    color:black;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-size:120%;
+    font-weight: 100;
+}
+
+#lecture-title {
+    color:black;
+    font-size:90%;
+    font-weight: 100;
+}
+        
+#inner_sec_follow {
+    background-color: lightgray;
+    background-repeat: repeat-x;
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-position-x: left;
+    background-position-y: top;
+    background-size: auto auto;
+    margin-bottom: 2%;
+    padding-top: 1%;
+    width: 95%;
+    font-weight:500;
+}
+
+#bu_logo {
+    position:relative;
+    max-height: 100%;
+    max-width: 60%;
+    display:block;
+    margin-left: 0;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+#inner_sec {
+    margin-bottom: 2%;
+    width: 95%;
+    font-weight: 500;
+}
+
+#title {
+    margin-top: 2%;
+    font-size: 120%;
+    font-weight: 100;
+}
+
+#subtitle {
+    margin-top:2%;
+    font-size: 0.70em;
+}
+
+#summary {
+    margin-top: 4%;
+    font-size: 0.60em;
+    font-weight: 100;
+    line-height: 170%;
+}
+
+#footer {
+    margin-top: 3%;
+}
