@@ -235,13 +235,16 @@ a:hover {
 
 .menu {
     background-image: url('images/sidebars2-min.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left; 
+    background-size: 100% 100%;
     position: fixed;
     transform: translateY(-100%);
     transition: transform 0.2s;
     width: 100%;
     height:  100%;
     z-index: 99;
-    background: black;
     color: white;
     list-style: none;
     padding-top: 4rem;
