@@ -16,4 +16,4 @@ const ARTICLE_SECTION = `
 	</div>
 `;
 
-const FIRST_SECTION_HEADER = `<div id="section-title">{0} </div>`;
+const FIRST_SECTION_HEADER = `<div id={0}>{1} </div>`;

@@ -11,10 +11,19 @@ function populate_sections(sections_name, sections) {
 	for (let section of sections) {
 		if (!section["show"]) continue;
 
+		let first_section = "";
+		if (count == 0) {
+			first_section = String.format(
+				FIRST_SECTION_HEADER,
+				isMobile ? "section-title-mobile": "section-title",
+				sections_name
+			)
+		}
+
 		new_section = String.format(
 			ARTICLE_SECTION,
 			isMobile ? "section-mobile" : "section",
-			count == 0 ? String.format(FIRST_SECTION_HEADER, sections_name) : "",
+			first_section,
 			section["date"],
 			section["title"],
 			section["subtitle"],
