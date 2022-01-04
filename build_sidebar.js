@@ -134,6 +134,10 @@ async function handle_mobile_conversion() {
 	for (let section of sections) {
 		section.id = "section-mobile";
 	}
+	sections = document.querySelectorAll("#section-title");
+	for (let section of sections) {
+		section.id = "section-title-mobile";
+	}
 }
 
 
