@@ -163,7 +163,7 @@ a:hover {
 #section-title {
     color:black;
     margin-top: 2%;
-    margin-bottom: 2%;
+    margin-bottom: 5%;
     font-size:120%;
     font-weight: 100;
 }
@@ -171,7 +171,7 @@ a:hover {
 #section-title-mobile {
     color:black;
     margin-top: 10%;
-    margin-bottom: 5%;
+    margin-bottom: 10%;
     font-size: 120%;
     font-weight: 100;
 }

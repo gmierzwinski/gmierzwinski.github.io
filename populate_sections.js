@@ -16,7 +16,7 @@ function populate_sections(sections_name, sections) {
 			first_section = String.format(
 				FIRST_SECTION_HEADER,
 				isMobile ? "section-title-mobile": "section-title",
-				sections_name
+				"<br>" + sections_name
 			)
 		}
 
