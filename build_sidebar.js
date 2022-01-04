@@ -165,6 +165,8 @@ window.addEventListener("load", async function () {
 			menuIcon.style.display = "none";
 		}
 	}
-
-	hamburger.addEventListener("click", toggleMenu);
+	
+	if (hamburger) {
+		hamburger.addEventListener("click", toggleMenu);
+	}
 });
