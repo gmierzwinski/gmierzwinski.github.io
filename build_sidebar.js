@@ -7,8 +7,8 @@ const ROOT = "gmierzwinski.github.io";
 const HAMBURGER_MENU = `
   <div class="menu sidebar-nav-mobile"></div>
   <button class="hamburger">
-    <i class="menuIcon material-icons">menu</i>
-    <i class="closeIcon material-icons">close</i>
+    <i class="material-icons menuIcon">menu</i>
+    <i class="material-icons closeIcon">close</i>
   </button>
 `
 
@@ -95,7 +95,7 @@ async function build_sidebar() {
 		return entry;
 	}
 
-	if (isMobile) {
+	if (true) {
 		let aside = document.querySelector("div #aside");
 		let sections = document.querySelector("div #sections");
 		aside.style.width = "0%";
@@ -131,7 +131,6 @@ async function handle_mobile_conversion() {
 	if (!window.mobileCheck()) return;
 
 	let sections = document.querySelectorAll("#section");
-	console.log(sections)
 	for (let section of sections) {
 		section.id = "section-mobile";
 	}
