@@ -4,6 +4,7 @@ Generalized method for populating section on a particular page.
 
 function populate_sections(sections_name, sections) {
 	let section_location = document.querySelector("div #sections");
+	let isMobile = window.mobileCheck();
 
 	let count = 0;
 	let new_section = "";
@@ -12,6 +13,7 @@ function populate_sections(sections_name, sections) {
 
 		new_section = String.format(
 			ARTICLE_SECTION,
+			isMobile ? "section-mobile" : "section",
 			count == 0 ? String.format(FIRST_SECTION_HEADER, sections_name) : "",
 			section["date"],
 			section["title"],
