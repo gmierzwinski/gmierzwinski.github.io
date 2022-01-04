@@ -95,7 +95,7 @@ async function build_sidebar() {
 		return entry;
 	}
 
-	if (true) {
+	if (isMobile) {
 		let aside = document.querySelector("div #aside");
 		let sections = document.querySelector("div #sections");
 		aside.style.width = "0%";
