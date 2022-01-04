@@ -28,6 +28,7 @@ const SIDEBAR_CONTENTS = {
 };
 
 let SIDEBAR_ENTRY = '<div class="sidebar_text">| <a href="{0}">{1} </a>&nbsp;</div>';
+let SIDEBAR_ENTRY_MOBILE = '<div class="sidebar_text_mobile">| <a href="{0}">{1} </a>&nbsp;</div>';
 
 let SIDEBAR_TITLE = `
 	<a href="http://cs.ubishops.ca/" alt="CS @ Bishop's University">
@@ -39,7 +40,7 @@ let SIDEBAR_TITLE = `
 `
 
 let SIDEBAR_TITLE_MOBILE = `
-	<div id="namediv">
+	<div id="namediv-mobile">
 	    CS321 <br> Advanced Programming <br>Techniques <br>
 	</div>
 `
@@ -110,7 +111,7 @@ async function build_sidebar() {
 
 		let entry = await get_content();
 		for (let [key, val] of Object.entries(entry)) {
-			sidebar.insertAdjacentHTML("beforeend", String.format(SIDEBAR_ENTRY, val, key));
+			sidebar.insertAdjacentHTML("beforeend", String.format(SIDEBAR_ENTRY_MOBILE, val, key));
 		}
 	} else {
 		let sidebar_title_location = document.querySelector("div #aside_cover");

@@ -102,11 +102,21 @@ body {
 }
 
 .sidebar_text {  }
+.sidebar_text_mobile {
+    margin-left: 5%;
+}
 
 #namediv {
     color:white;
     margin-top:12%;
     margin-bottom:3%;
+}
+
+#namediv {
+    color:white;
+    margin-top:12%;
+    margin-bottom:3%;
+    margin-left:5%;
 }
 
 #section {
@@ -161,7 +171,7 @@ a:hover {
 #section-title-mobile {
     color:black;
     margin-top: 10%;
-    margin-bottom: 2%;
+    margin-bottom: 5%;
     font-size: 120%;
     font-weight: 100;
 }
