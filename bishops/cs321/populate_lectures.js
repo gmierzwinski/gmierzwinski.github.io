@@ -13,12 +13,17 @@ const LECTURES = [
             <a href="resources/CS321_Course_Outline.pdf" style="color: blue" target="_blank">
                 Course Outline
             </a> <br>
+            <a href="resources/CS321_Lecture_01.pptx" style="color: blue" target="_blank">
+                Quick Java Overview and Hello World!
+            </a> <br>
+            <a href="https://www.oracle.com/java/technologies/downloads/#jdk17-windows" style="color: blue" target="_blank">
+            	JDK Download for \`javac\` and \`java\` Example
+            </a> <br> <br>
+            <hr>
+            <b>Additional Resources:</b> <br>
             <a href="resources/AP16_01_overview_JavaForCPP_Programmers-1.pps" style="color: blue" target="_blank">
                 Java Overview
             </a> <br>
-            <a href="resources/SLIDES_01_Statements.pps" style="color: blue" target="_blank">
-                Java Statements
-            </a>
 		`,
 		show: true
 	},
@@ -29,6 +34,11 @@ const LECTURES = [
 		summary: `
             <br>
             TBD
+            <hr>
+            <b>Additional Resources:</b> <br>
+            <a href="resources/SLIDES_01_Statements.pps" style="color: blue" target="_blank">
+                Java Statements
+            </a>
 		`,
 		show: true
 	},
