@@ -1,6 +1,6 @@
 /*
 Used to populate the section on lectures. Rather than having to write
-out all the HTML myself constantly, I can just rermove entries from
+out all the HTML myself constantly, I can just remove entries from
 a JSON defined in this file.
 */
 
@@ -28,12 +28,13 @@ const LECTURES = [
 		show: true
 	},
 	{
-		title: "Lecture 02 - TBD",
+		title: "Lecture 02 - Java Basics I",
 		date: "January 18, 2022",
 		subtitle: "",
 		summary: `
-            <br>
-            TBD
+            <a href="resources/CS321_Lecture_02.pptx" style="color: blue" target="_blank">
+                Java Basics I – Variables, Expressions, and Operators
+            </a> <br> <br>
             <hr>
             <b>Additional Resources:</b> <br>
             <a href="resources/SLIDES_01_Statements.pps" style="color: blue" target="_blank">
