@@ -44,12 +44,16 @@ const LECTURES = [
 		show: true
 	},
 	{
-		title: "Lecture 03 - TBD",
+		title: "Lecture 03 - Control, Strings, and Arrays",
 		date: "January 21, 2022",
 		subtitle: "",
 		summary: `
-            <br>
-            TBD
+            <a href="resources/CS321_Lecture_03A.pptx" style="color: blue" target="_blank">
+                Control Statements
+            </a> <br>
+            <a href="resources/CS321_Lecture_03B.pptx" style="color: blue" target="_blank">
+                Strings, and Arrays
+            </a> <br> <br>
 		`,
 		show: true
 	},
