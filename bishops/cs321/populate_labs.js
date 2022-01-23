@@ -8,7 +8,7 @@ const LABS = [
 	{
 		title: "Lab 01 - Setup and Hello World",
 		date: "January 18, 2022",
-		subtitle: "",
+		subtitle: "Due January 25th",
 		summary: `
             <a href="resources/CS321_Lab_01.pdf" style="color: blue" target="_blank">
                 Lab Instructions
@@ -17,12 +17,13 @@ const LABS = [
 		show: true
 	},
 	{
-		title: "Lab 02 - TBD",
+		title: "Lab 02 - Arrays",
 		date: "January 25, 2022",
-		subtitle: "",
+		subtitle: "Due February 1st",
 		summary: `
-            <br>
-            TBD
+            <a href="resources/CS321_Lab_02.pdf" style="color: blue" target="_blank">
+                Lab Instructions
+            </a> <br>
 		`,
 		show: true
 	},
