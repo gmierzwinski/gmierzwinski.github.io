@@ -58,12 +58,21 @@ const LECTURES = [
 		show: true
 	},
 	{
-		title: "Lecture 04 - TBD",
+		title: "Lecture 04 - Methods, Objects, and Assignment #1",
 		date: "January 25, 2022",
 		subtitle: "",
 		summary: `
-            <br>
-            TBD
+            <a href="resources/CS321_Lecture_04.pptx" style="color: blue" target="_blank">
+                Methods, and Objects
+            </a> <br>
+            <a href="resources/CS321_Assignment_1_Java_Arrays.pptx" style="color: blue" target="_blank">
+                Assignment #1
+            </a> <br> <br>
+            <hr>
+            <b>Additional Resources:</b> <br>
+            <a href="resources/SLIDES_01_Statements.pps" style="color: blue" target="_blank">
+                Parameter Passing
+            </a>
 		`,
 		show: true
 	},

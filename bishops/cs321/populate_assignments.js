@@ -6,12 +6,13 @@ a JSON defined in this file.
 
 const ASSIGNMENTS = [
 	{
-		title: "Assignment 01 - TBD",
+		title: "Assignment 01 - Java Arrays",
 		date: "January 25, 2022",
 		subtitle: "",
 		summary: `
-            <br>
-            TBD
+            <a href="resources/CS321_Assignment_1_Java_Arrays.pptx style="color: blue" target="_blank">
+                Assignment #1
+            </a> <br> <br>
 		`,
 		show: true
 	},
