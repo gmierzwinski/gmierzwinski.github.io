@@ -10,7 +10,7 @@ const ASSIGNMENTS = [
 		date: "January 25, 2022",
 		subtitle: "",
 		summary: `
-            <a href="resources/CS321_Assignment_1_Java_Arrays.pptx" style="color: blue" target="_blank">
+            <a href="resources/CS321_Assignment_1_Java_Arrays.pdf" style="color: blue" target="_blank">
                 Assignment #1
             </a> <br> <br>
 		`,
