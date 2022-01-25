@@ -18,3 +18,4 @@ function pullStudents() {
 	console.log("CSV List: ")
 	console.log(students.join("\n"));
 }
+pullStudents();
