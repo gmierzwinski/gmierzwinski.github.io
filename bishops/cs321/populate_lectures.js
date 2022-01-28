@@ -80,8 +80,19 @@ const LECTURES = [
 		show: true
 	},
 	{
-		title: "Lecture 05 - TBD",
+		title: "Lecture 05 - Industrial Class Design",
 		date: "January 28, 2022",
+		subtitle: "",
+		summary: `
+            <a href="resources/CS321_Lecture_05.pptx" style="color: blue" target="_blank">
+                Industrial Class Design
+            </a> <br> <br>
+		`,
+		show: true
+	},
+	{
+		title: "Lecture 06 - TBD",
+		date: "February 1, 2022",
 		subtitle: "",
 		summary: `
             <br>
@@ -89,6 +100,36 @@ const LECTURES = [
 		`,
 		show: true
 	},
+	{
+		title: "Lecture 07 - TBD",
+		date: "February 4, 2022",
+		subtitle: "",
+		summary: `
+            <br>
+            TBD
+		`,
+		show: true
+	},
+	{
+		title: "Lecture 08 - TBD",
+		date: "February 8, 2022",
+		subtitle: "",
+		summary: `
+            <br>
+            TBD
+		`,
+		show: true
+	},
+	{
+		title: "Lecture 09 - TBD",
+		date: "February 11, 2022",
+		subtitle: "",
+		summary: `
+            <br>
+            TBD
+		`,
+		show: true
+	}
 ];
 
 
