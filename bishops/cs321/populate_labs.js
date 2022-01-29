@@ -8,7 +8,7 @@ const LABS = [
 	{
 		title: "Lab 01 - Setup and Hello World",
 		date: "January 18, 2022",
-		subtitle: "Due January 25th",
+		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_01.pdf" style="color: blue" target="_blank">
                 Lab Instructions
@@ -19,7 +19,7 @@ const LABS = [
 	{
 		title: "Lab 02 - Arrays",
 		date: "January 25, 2022",
-		subtitle: "Due February 1st",
+		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_02.pdf" style="color: blue" target="_blank">
                 Lab Instructions
@@ -28,12 +28,13 @@ const LABS = [
 		show: true
 	},
 	{
-		title: "Lab 03 - TBD",
+		title: "Lab 02 - Objects, and Static Methods",
 		date: "February 1, 2022",
 		subtitle: "",
 		summary: `
-            <br>
-            TBD
+            <a href="resources/CS321_Lab_03.pdf" style="color: blue" target="_blank">
+                Lab Instructions
+            </a> <br>
 		`,
 		show: true
 	},
