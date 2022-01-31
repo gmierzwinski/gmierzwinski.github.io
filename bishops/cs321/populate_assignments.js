@@ -17,12 +17,13 @@ const ASSIGNMENTS = [
 		show: true
 	},
 	{
-		title: "Assignment 02 - TBD",
+		title: "Assignment 02 - Object-Oriented Programming",
 		date: "February 1, 2022",
 		subtitle: "",
 		summary: `
-            <br>
-            TBD
+            <a href="resources/CS321_Assignment_2_Objects.pdf" style="color: blue" target="_blank">
+                Assignment #2
+            </a> <br> <br>
 		`,
 		show: true
 	},
