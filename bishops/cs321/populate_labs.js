@@ -28,7 +28,7 @@ const LABS = [
 		show: true
 	},
 	{
-		title: "Lab 02 - Objects, and Static Methods",
+		title: "Lab 03 - Objects, and Static Methods",
 		date: "February 1, 2022",
 		subtitle: "",
 		summary: `

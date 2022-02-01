@@ -91,12 +91,16 @@ const LECTURES = [
 		show: true
 	},
 	{
-		title: "Lecture 06 - TBD",
+		title: "Lecture 06 - Inheritance & Polymorphism",
 		date: "February 1, 2022",
 		subtitle: "",
 		summary: `
-            <br>
-            TBD
+            <a href="resources/CS321_Lecture_06.pptx" style="color: blue" target="_blank">
+                Inheritance & Polymorphism
+            </a> <br>
+            <a href="resources/CS321_Assignment_2_Objects.pdf" style="color: blue" target="_blank">
+                Assignment #2
+            </a> <br> <br>
 		`,
 		show: true
 	},
