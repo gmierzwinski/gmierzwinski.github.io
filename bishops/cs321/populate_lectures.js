@@ -105,12 +105,16 @@ const LECTURES = [
 		show: true
 	},
 	{
-		title: "Lecture 07 - TBD",
+		title: "Lecture 07 - Abstract Classes, & Interfaces",
 		date: "February 4, 2022",
 		subtitle: "",
 		summary: `
-            <br>
-            TBD
+            <a href="resources/CS321_Lecture_07A.pptx" style="color: blue" target="_blank">
+                Inheritance
+            </a> <br>
+            <a href="resources/CS321_Lecture_07B.pptx" style="color: blue" target="_blank">
+                Abstract Classes, and Interfacecs
+            </a> <br> <br>
 		`,
 		show: true
 	},
