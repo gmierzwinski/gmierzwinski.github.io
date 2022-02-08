@@ -123,8 +123,12 @@ const LECTURES = [
 		date: "February 8, 2022",
 		subtitle: "",
 		summary: `
-            <br>
-            TBD
+            <a href="resources/CS321_Lecture_08A.pptx" style="color: blue" target="_blank">
+                UML Quick Overview
+            </a> <br>
+            <a href="resources/CS321_Lecture_08B.pptx" style="color: blue" target="_blank">
+                VCS, Git, & Github
+            </a> <br> <br>
 		`,
 		show: true
 	},
