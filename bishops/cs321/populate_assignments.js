@@ -28,11 +28,11 @@ const ASSIGNMENTS = [
 		show: true
 	},
 	{
-		title: "Assignment 03 - TBD",
+		title: "Assignment 03 - Rat Race",
 		date: "February 11, 2022",
 		subtitle: "",
 		summary: `
-            <a href="resources/CS321_Assignment_3_Race_Race.pdf" style="color: blue" target="_blank">
+            <a href="resources/CS321_Assignment_3_Rat_Race.pdf" style="color: blue" target="_blank">
                 Assignment #3
             </a> <br> <br>
 		`,
