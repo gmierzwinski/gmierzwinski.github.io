@@ -119,7 +119,7 @@ const LECTURES = [
 		show: true
 	},
 	{
-		title: "Lecture 08 - TBD",
+		title: "Lecture 08 - UML, & Github",
 		date: "February 8, 2022",
 		subtitle: "",
 		summary: `
@@ -129,12 +129,48 @@ const LECTURES = [
             <a href="resources/CS321_Lecture_08B.pptx" style="color: blue" target="_blank">
                 VCS, Git, & Github
             </a> <br> <br>
+            <hr>
+            <b>Additional Resources:</b> <br>
+            <a href="resources/SLIDES_08_UML_ClassDiagrams.pps" style="color: blue" target="_blank">
+                UML Detailed
+            </a>
 		`,
 		show: true
 	},
 	{
-		title: "Lecture 09 - TBD",
+		title: "Lecture 09 - Inner Classes",
 		date: "February 11, 2022",
+		subtitle: "",
+		summary: `
+            <a href="resources/CS321_Lecture_09.pptx" style="color: blue" target="_blank">
+                Inner Classes
+            </a> <br> <br>
+		`,
+		show: true
+	},
+	{
+		title: "Lecture 10 - TBD",
+		date: "February 15, 2022",
+		subtitle: "",
+		summary: `
+            <br>
+            TBD
+		`,
+		show: true
+	},
+	{
+		title: "Lecture 11 - TBD",
+		date: "February 18, 2022",
+		subtitle: "",
+		summary: `
+            <br>
+            TBD
+		`,
+		show: true
+	},
+	{
+		title: "Lecture 12 - TBD",
+		date: "February 22, 2022",
 		subtitle: "",
 		summary: `
             <br>

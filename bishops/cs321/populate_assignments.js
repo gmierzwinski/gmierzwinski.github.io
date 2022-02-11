@@ -32,8 +32,9 @@ const ASSIGNMENTS = [
 		date: "February 11, 2022",
 		subtitle: "",
 		summary: `
-            <br>
-            TBD
+            <a href="resources/CS321_Assignment_3_Race_Race.pdf" style="color: blue" target="_blank">
+                Assignment #3
+            </a> <br> <br>
 		`,
 		show: true
 	},
