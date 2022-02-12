@@ -142,17 +142,26 @@ const LECTURES = [
 		date: "February 11, 2022",
 		subtitle: "",
 		summary: `
+		    <a href="https://ensemble.ubishops.ca/Watch/t9A5Qoa7" style="color: blue" target="_blank">
+                How to Auto-Format Your Code
+            </a> <br>
             <a href="resources/CS321_Lecture_09.pptx" style="color: blue" target="_blank">
                 Inner Classes
+            </a> <br>
+            <a href="resources/CS321_Assignment_3_Rat_Race.pdf" style="color: blue" target="_blank">
+                Assignment #3 (See Moodle for Starter Code)
             </a> <br> <br>
 		`,
 		show: true
 	},
 	{
-		title: "Lecture 10 - TBD",
+		title: "Lecture 10 - Linting, and Exceptions",
 		date: "February 15, 2022",
 		subtitle: "",
 		summary: `
+            <a href="https://ensemble.ubishops.ca/Watch/t9A5Qoa7" style="color: blue" target="_blank">
+                How to Auto-Format Your Code
+            </a> <br>
             <br>
             TBD
 		`,
