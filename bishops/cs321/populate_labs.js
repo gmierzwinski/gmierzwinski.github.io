@@ -50,12 +50,13 @@ const LABS = [
 		show: true
 	},
 	{
-		title: "Lab 05 - TBD",
+		title: "Lab 05 - Midterm Review with Iterators",
 		date: "February 8, 2022",
 		subtitle: "",
 		summary: `
-            <br>
-            TBD
+            <a href="resources/CS321_Lab_05.pdf" style="color: blue" target="_blank">
+                Lab Instructions
+            </a> <br>
 		`,
 		show: true
 	},

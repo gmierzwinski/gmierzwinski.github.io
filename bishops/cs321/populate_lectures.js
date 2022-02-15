@@ -162,8 +162,12 @@ const LECTURES = [
             <a href="https://ensemble.ubishops.ca/Watch/t9A5Qoa7" style="color: blue" target="_blank">
                 How to Auto-Format Your Code
             </a> <br>
-            <br>
-            TBD
+            <a href="resources/CS321_Lecture_10A.pptx" style="color: blue" target="_blank">
+                Linting
+            </a> <br>
+            <a href="resources/CS321_Lecture_10B.pptx" style="color: blue" target="_blank">
+                Exceptions
+            </a> <br> <br>
 		`,
 		show: true
 	},
