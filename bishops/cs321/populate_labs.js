@@ -51,7 +51,7 @@ const LABS = [
 	},
 	{
 		title: "Lab 05 - Midterm Review with Iterators",
-		date: "February 8, 2022",
+		date: "February 15, 2022",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_05.pdf" style="color: blue" target="_blank">
@@ -61,18 +61,19 @@ const LABS = [
 		show: true
 	},
 	{
-		title: "Lab 06 - TBD",
-		date: "February 8, 2022",
+		title: "Lab 06 - Orchestras",
+		date: "February 22, 2022",
 		subtitle: "",
 		summary: `
-            <br>
-            TBD
+            <a href="resources/CS321_Lab_06.pdf" style="color: blue" target="_blank">
+                Lab Instructions
+            </a> <br>
 		`,
 		show: true
 	},
 	{
 		title: "Lab 07 - TBD",
-		date: "February 8, 2022",
+		date: "March 8, 2022",
 		subtitle: "",
 		summary: `
             <br>

@@ -172,18 +172,19 @@ const LECTURES = [
 		show: true
 	},
 	{
-		title: "Lecture 11 - TBD",
-		date: "February 18, 2022",
+		title: "Lecture 11 - Java Generics",
+		date: "February 22, 2022",
 		subtitle: "",
 		summary: `
-            <br>
-            TBD
+            <a href="resources/CS321_Lecture_11.pptx" style="color: blue" target="_blank">
+                Exceptions
+            </a> <br> <br>
 		`,
 		show: true
 	},
 	{
 		title: "Lecture 12 - TBD",
-		date: "February 22, 2022",
+		date: "February 25, 2022",
 		subtitle: "",
 		summary: `
             <br>
