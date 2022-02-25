@@ -177,18 +177,19 @@ const LECTURES = [
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_11.pptx" style="color: blue" target="_blank">
-                Exceptions
+                Generics
             </a> <br> <br>
 		`,
 		show: true
 	},
 	{
-		title: "Lecture 12 - TBD",
+		title: "Lecture 12 - Midterm Review",
 		date: "February 25, 2022",
 		subtitle: "",
 		summary: `
-            <br>
-            TBD
+            <a href="resources/CS321_Lecture_12.pptx" style="color: blue" target="_blank">
+                Midterm Review
+            </a> <br> <br>
 		`,
 		show: true
 	}
