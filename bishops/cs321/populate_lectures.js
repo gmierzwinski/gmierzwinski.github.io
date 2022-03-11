@@ -192,7 +192,27 @@ const LECTURES = [
             </a> <br> <br>
 		`,
 		show: true
-	}
+	},
+	{
+		title: "Lecture 13 - Rounding off OOP, and Java Swing GUIs",
+		date: "February 15, 2022",
+		subtitle: "",
+		summary: `
+            <a href="resources/CS321_Lecture_13.pptx" style="color: blue" target="_blank">
+                Testing, and OOP
+            </a> <br>
+            <a href="resources/CS321_Lecture_13A.pptx" style="color: blue" target="_blank">
+                GUI Building
+            </a> <br>
+            <a href="resources/CS321_Lecture_13B.pptx" style="color: blue" target="_blank">
+                Mouse Events
+            </a> <br>
+            <a href="resources/CS321_Lecture_13C.pptx" style="color: blue" target="_blank">
+                Graphics
+            </a> <br> <br>
+		`,
+		show: true
+	},
 ];
 
 

@@ -72,12 +72,14 @@ const LABS = [
 		show: true
 	},
 	{
-		title: "Lab 07 - TBD",
-		date: "March 8, 2022",
+		title: "Lab 07 - Java GUI Building (Bonus Lab)",
+		date: "March 11, 2022",
 		subtitle: "",
 		summary: `
-            <br>
-            TBD
+            <a href="resources/CS321_Lab_07.pdf" style="color: blue" target="_blank">
+                Lab Instructions (due by April 1st)
+            </a> <br>
+            If this lab is completed, then the lowest scored lab will be removed from the overall grade. <br>
 		`,
 		show: true
 	},

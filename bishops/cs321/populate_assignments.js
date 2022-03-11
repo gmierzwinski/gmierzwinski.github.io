@@ -39,12 +39,13 @@ const ASSIGNMENTS = [
 		show: true
 	},
 	{
-		title: "Assignment 04 - TBD",
-		date: "February 25, 2022",
+		title: "Assignment 04 - Bank Simulation",
+		date: "March 11, 2022",
 		subtitle: "",
 		summary: `
-            <br>
-            TBD
+            <a href="resources/CS321_Assignment_4_Bank_Simulation.pdf" style="color: blue" target="_blank">
+                Assignment #4 (due March 25th)
+            </a> <br> <br>
 		`,
 		show: true
 	},
