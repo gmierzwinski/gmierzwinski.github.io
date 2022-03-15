@@ -195,7 +195,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 13 - Rounding off OOP, and Java Swing GUIs",
-		date: "February 15, 2022",
+		date: "March 11, 2022",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_13.pptx" style="color: blue" target="_blank">
@@ -209,6 +209,17 @@ const LECTURES = [
             </a> <br>
             <a href="resources/CS321_Lecture_13C.pptx" style="color: blue" target="_blank">
                 Graphics
+            </a> <br> <br>
+		`,
+		show: true
+	},
+	{
+		title: "Lecture 14 - Intro to Design Patterns",
+		date: "March 15, 2022",
+		subtitle: "",
+		summary: `
+            <a href="resources/CS321_Lecture_14.pptx" style="color: blue" target="_blank">
+                Intro to Design Patterns
             </a> <br> <br>
 		`,
 		show: true
