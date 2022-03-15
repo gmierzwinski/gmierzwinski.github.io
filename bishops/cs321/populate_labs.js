@@ -84,12 +84,13 @@ const LABS = [
 		show: true
 	},
 	{
-		title: "Lab 08 - TBD",
-		date: "February 8, 2022",
+		title: "Lab 08 - Patterns, and derivation",
+		date: "March 15, 2022",
 		subtitle: "",
 		summary: `
-            <br>
-            TBD
+            <a href="resources/CS321_Lab_08.pdf" style="color: blue" target="_blank">
+                Lab Instructions
+            </a> <br>
 		`,
 		show: true
 	}
