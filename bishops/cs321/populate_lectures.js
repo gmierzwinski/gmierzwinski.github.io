@@ -224,6 +224,26 @@ const LECTURES = [
 		`,
 		show: true
 	},
+	{
+		title: "Lecture 15 - Design Patterns (Observer, Template, Singleton, Adapter)",
+		date: "March 18, 2022",
+		subtitle: "",
+		summary: `
+            <a href="resources/CS321_Lecture_15D.pptx" style="color: blue" target="_blank">
+                Adapter
+            </a> <br>
+            <a href="resources/CS321_Lecture_15A.pptx" style="color: blue" target="_blank">
+                Observer Pattern
+            </a> <br>
+            <a href="resources/CS321_Lecture_15B.pptx" style="color: blue" target="_blank">
+                Template Method Pattern
+            </a> <br>
+            <a href="resources/CS321_Lecture_15C.pptx" style="color: blue" target="_blank">
+                Singleton Pattern
+            </a> <br> <br>
+		`,
+		show: true
+	},
 ];
 
 
