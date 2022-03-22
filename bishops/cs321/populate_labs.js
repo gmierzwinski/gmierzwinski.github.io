@@ -93,6 +93,17 @@ const LABS = [
             </a> <br>
 		`,
 		show: true
+	},
+	{
+		title: "Lab 09 - Tripleton, and Observer Pattern",
+		date: "March 22, 2022",
+		subtitle: "",
+		summary: `
+            <a href="resources/CS321_Lab_09.pdf" style="color: blue" target="_blank">
+                Lab Instructions
+            </a> <br>
+		`,
+		show: true
 	}
 ];
 
