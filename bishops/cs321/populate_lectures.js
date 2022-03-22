@@ -244,6 +244,17 @@ const LECTURES = [
 		`,
 		show: true
 	},
+	{
+		title: "Lecture 16 - Intro to Threads, and Multi-threaded Programming",
+		date: "March 22, 2022",
+		subtitle: "",
+		summary: `
+            <a href="resources/CS321_Lecture_16.pptx" style="color: blue" target="_blank">
+                Threads
+            </a> <br> <br>
+		`,
+		show: true
+	},
 ];
 
 
