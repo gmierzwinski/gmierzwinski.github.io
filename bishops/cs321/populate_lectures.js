@@ -255,6 +255,20 @@ const LECTURES = [
 		`,
 		show: true
 	},
+	{
+		title: "Lecture 17 - Thread Synchronization, and Semaphores",
+		date: "March 25, 2022",
+		subtitle: "",
+		summary: `
+            <a href="resources/CS321_Lecture_17A.pptx" style="color: blue" target="_blank">
+                Thread Synchronization
+            </a> <br>
+            <a href="resources/CS321_Lecture_17B.pptx" style="color: blue" target="_blank">
+                Semaphores
+            </a> <br> <br>
+		`,
+		show: true
+	},
 ];
 
 
