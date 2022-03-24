@@ -50,12 +50,13 @@ const ASSIGNMENTS = [
 		show: true
 	},
 	{
-		title: "Assignment 05 - TBD",
-		date: "March 15, 2022",
+		title: "Assignment 05 - Bishop's Bridge",
+		date: "March 25, 2022",
 		subtitle: "",
 		summary: `
-            <br>
-            TBD
+            <a href="resources/CS321_Assignment_5_Bishops_Bridge.pdf" style="color: blue" target="_blank">
+                Assignment #5 (due April 8th)
+            </a> <br> <br>
 		`,
 		show: true
 	},
