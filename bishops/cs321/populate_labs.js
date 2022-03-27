@@ -104,6 +104,17 @@ const LABS = [
             </a> <br>
 		`,
 		show: true
+	},
+	{
+		title: "Lab 10 - The Multithreaded Cook",
+		date: "March 29, 2022",
+		subtitle: "",
+		summary: `
+            <a href="resources/CS321_Lab_10.pdf" style="color: blue" target="_blank">
+                Lab Instructions
+            </a> <br>
+		`,
+		show: true
 	}
 ];
 
