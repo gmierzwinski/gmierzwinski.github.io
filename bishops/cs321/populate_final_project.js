@@ -6,7 +6,7 @@ a JSON defined in this file.
 
 const PROJECT_SECTIONS = [
 	{
-		title: "",
+		title: `<div style="color:red">Due: April 22nd (midnight)`,
 		date: "",
 		subtitle: "",
 		summary: `
@@ -55,7 +55,6 @@ const PROJECT_SECTIONS = [
 			</dl>
 			</li>
 			</ul>
-			</div>
 		`,
 		show: true
 	},
@@ -121,6 +120,36 @@ const PROJECT_SECTIONS = [
 			<p>As a future software engineer, you need to get used to writing out your reasons for doing one thing over another. This will help you with keeping track of decision history, explaining your solution to others, and finding possible simplifications in your program. If it helps, assume that you are attempting to convince one of your managers that the way you built this program, is the only way to build it.</p>
 			<p>You will need to produce a report of at least 2 pages (or 1000 words) describing your design decisions, as well as listing all the design patterns you used and where they are located. This will include reasoning for things like “why I used the Factory method in location XYZ”.</p>
 			<p>Include a visual design of your program. The visualization does not need to follow UML conventions, but it needs to be clear, and simple. This design should/could be partially completed prior to programming as well.</p>
+			<p>I expect to see all of the following in your document:</p>
+			<ul>
+			<li><p class="first">Overview of your program.</p>
+			<blockquote>
+			<ul class="simple">
+			<li>Idea you selected.</li>
+			<li>Overview of how it’s implemented.</li>
+			</ul>
+			</blockquote>
+			</li>
+			<li><p class="first">Design/implementation decisions</p>
+			<blockquote>
+			<ul class="simple">
+			<li>Patterns used</li>
+			<li>Choice of logic and/or data structures</li>
+			<li>Usage of DRY, SOLID</li>
+			<li>Synchronization choices</li>
+			<li>Etc.</li>
+			</ul>
+			</blockquote>
+			</li>
+			<li><p class="first">Visual design of the program</p>
+			<blockquote>
+			<ul class="simple">
+			<li>Try using an extension in your IDE to produce a UML diagram</li>
+			<li>Alternatively, you can build a simplified one that doesn’t need to follow UML</li>
+			</ul>
+			</blockquote>
+			</li>
+			</ul>
 		`,
 		show: true
 	}
@@ -128,5 +157,5 @@ const PROJECT_SECTIONS = [
 
 
 window.addEventListener("load", function() {
-	populate_sections("CS321 Final Project<br>  Due: April 22nd (midnight)", PROJECT_SECTIONS);
+	populate_sections("CS321 Final Project", PROJECT_SECTIONS);
 });

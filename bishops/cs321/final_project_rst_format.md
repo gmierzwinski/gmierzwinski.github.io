@@ -87,3 +87,23 @@ You will need to produce a report of at least 2 pages (or 1000 words) describing
 
 Include a visual design of your program. The visualization does not need to follow UML conventions, but it needs to be clear, and simple. This design should/could be partially completed prior to programming as well.
 
+I expect to see all of the following in your document:
+
+* Overview of your program.
+
+   * Idea you selected.
+   * Overview of how it’s implemented.
+
+* Design/implementation decisions
+
+   * Patterns used
+   * Choice of logic and/or data structures
+   * Usage of DRY, SOLID
+   * Synchronization choices
+   * Etc.
+
+* Visual design of the program
+
+   * Try using an extension in your IDE to produce a UML diagram
+   * Alternatively, you can build a simplified one that doesn’t need to follow UML
+
