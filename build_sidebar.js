@@ -23,6 +23,14 @@ const SIDEBAR_CONTENTS = {
 			References: "references.html",
 			"Style Guidelines": "style_guidelines.html",
 			Contact: "contact.html"
+		},
+		cs403: {
+			Home: "index.html",
+			Lectures: "lectures.html",
+			Assignments: "assignments.html",
+			"Final Project": "final_project.html",
+			"Style Guidelines": "style_guidelines.html",
+			Contact: "contact.html"
 		}
 	}
 };
