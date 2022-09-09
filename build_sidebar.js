@@ -15,22 +15,34 @@ const HAMBURGER_MENU = `
 const SIDEBAR_CONTENTS = {
 	bishops: {
 		cs321: {
-			Home: "index.html",
-			Lectures: "lectures.html",
-			Assignments: "assignments.html",
-			Labs: "labs.html",
-			"Final Project": "final_project.html",
-			References: "references.html",
-			"Style Guidelines": "style_guidelines.html",
-			Contact: "contact.html"
+			content: {
+				Home: "index.html",
+				Lectures: "lectures.html",
+				Assignments: "assignments.html",
+				Labs: "labs.html",
+				"Final Project": "final_project.html",
+				References: "references.html",
+				"Style Guidelines": "style_guidelines.html",
+				Contact: "contact.html"
+			},
+			title: {
+				course_name: "Advanced Programming <br>Techniques",
+				course_code: "CS321"
+			}
 		},
 		cs403: {
-			Home: "index.html",
-			Lectures: "lectures.html",
-			Assignments: "assignments.html",
-			"Final Project": "final_project.html",
-			"Style Guidelines": "style_guidelines.html",
-			Contact: "contact.html"
+			content: {
+				Home: "index.html",
+				Lectures: "lectures.html",
+				Assignments: "assignments.html",
+				"Final Project": "final_project.html",
+				"Style Guidelines": "style_guidelines.html",
+				Contact: "contact.html"
+			},
+			title: {
+				course_name: "Principles of <br> Programming Languages",
+				course_code: "CS403"
+			}
 		}
 	}
 };
@@ -42,15 +54,11 @@ let SIDEBAR_TITLE = `
 	<a href="http://cs.ubishops.ca/" alt="CS @ Bishop's University">
 		<img src="{0}images/BU-logo-purpleHR.png" id="bu_logo" alt="Bishop's University"></img>
 	</a>
-	<div id="namediv">
-	    CS321 <br> Advanced Programming <br>Techniques <br>
-	</div>
+	<div id="namediv">{1} <br> {2} <br></div>
 `
 
 let SIDEBAR_TITLE_MOBILE = `
-	<div id="namediv-mobile">
-	    CS321 <br> Advanced Programming <br>Techniques <br>
-	</div>
+	<div id="namediv-mobile"> {0} <br> {1} <br></div>
 `
 
 window.mobileCheck = function() {
@@ -114,21 +122,36 @@ async function build_sidebar() {
 		let wrapper = document.querySelector("body");
 		wrapper.insertAdjacentHTML("beforebegin", HAMBURGER_MENU);
 
+		let sidebar_info = await get_content();
 		let sidebar = document.querySelector(".menu.sidebar-nav-mobile");
-		sidebar.insertAdjacentHTML("afterbegin", SIDEBAR_TITLE_MOBILE);
+		sidebar.insertAdjacentHTML(
+			"afterbegin",
+			String.format(
+				SIDEBAR_TITLE_MOBILE,
+				sidebar_info.title.course_code,
+				sidebar_info.title.course_name,
+			)
+		);
 
-		let entry = await get_content();
-		for (let [key, val] of Object.entries(entry)) {
+		for (let [key, val] of Object.entries(sidebar_info.content)) {
 			sidebar.insertAdjacentHTML("beforeend", String.format(SIDEBAR_ENTRY_MOBILE, val, key));
 		}
 	} else {
+		let sidebar_info = await get_content();
+
 		let sidebar_title_location = document.querySelector("div #aside_cover");
-		sidebar_title_location.insertAdjacentHTML("afterbegin", SIDEBAR_TITLE);
+		sidebar_title_location.insertAdjacentHTML(
+			"afterbegin",
+			String.format(
+				SIDEBAR_TITLE,
+				null,
+				sidebar_info.title.course_code,
+				sidebar_info.title.course_name,
+			)
+		);
 
 		let sidebar = document.querySelector("div.sidebar-nav");
-
-		let entry = await get_content();
-		for (let [key, val] of Object.entries(entry)) {
+		for (let [key, val] of Object.entries(sidebar_info.content)) {
 			sidebar.insertAdjacentHTML("beforeend", String.format(SIDEBAR_ENTRY, val, key));
 		}
 	}
