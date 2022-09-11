@@ -155,6 +155,15 @@ a:hover {
     color: blue;
 }
 
+#a_blue_link {
+    color: blue;
+}
+
+#book_title {
+    font-style: italic;
+    font-weight: bold;
+}
+
 #dateline {
     color:gray;
     font-size: 0.70em;

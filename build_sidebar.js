@@ -36,6 +36,7 @@ const SIDEBAR_CONTENTS = {
 				Lectures: "lectures.html",
 				Assignments: "assignments.html",
 				"Final Project": "final_project.html",
+				Resources: "resources.html",
 				"Style Guidelines": "style_guidelines.html",
 				Contact: "contact.html"
 			},
