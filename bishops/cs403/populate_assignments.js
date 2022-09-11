@@ -10,7 +10,9 @@ const ASSIGNMENTS = [
 		date: "September 13th, 2022",
 		subtitle: "Due date: September 26th",
 		summary: `
-            <p>Not released yet.</p>
+            <a href="resources/CS403_Assignment_1.pdf" id="a_blue_link" target="_blank">
+                Assignment Instructions
+            </a>
 		`,
 		show: true
 	},
