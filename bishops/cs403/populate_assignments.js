@@ -16,6 +16,17 @@ const ASSIGNMENTS = [
 		`,
 		show: true
 	},
+	{
+		title: "Assignment 02 - Haskell (2)",
+		date: "September 28th, 2022",
+		subtitle: "Due date: October 11th",
+		summary: `
+            <a href="resources/CS403_Assignment_2.pdf" id="a_blue_link" target="_blank">
+                Assignment Instructions
+            </a>
+		`,
+		show: true
+	},
 ];
 
 
