@@ -101,6 +101,7 @@ const RESOURCES = [
 		date: "",
 		subtitle: "",
 		summary: `
+<a href="https://www.swi-prolog.org/download/stable" id="a_blue_link" target="_blank"> Prolog Download </a>
 <ul>
     <li>
         Main resources ("required"):
