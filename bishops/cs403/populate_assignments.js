@@ -19,10 +19,24 @@ const ASSIGNMENTS = [
 	{
 		title: "Assignment 02 - Haskell (2)",
 		date: "September 28th, 2022",
-		subtitle: "Due date: October 11th",
+		subtitle: "Due date: October 14th",
 		summary: `
             <a href="resources/CS403_Assignment_2.pdf" id="a_blue_link" target="_blank">
                 Assignment Instructions
+            </a>
+		`,
+		show: true
+	},
+	{
+		title: "Assignment 03 - Prolog",
+		date: "October 17th, 2022",
+		subtitle: "Due date: October 31st",
+		summary: `
+            <a href="resources/CS403_Assignment_3.pdf" id="a_blue_link" target="_blank">
+                Assignment Instructions
+            </a> <br>
+            <a href="resources/cross.pl" id="a_blue_link" target="_blank">
+                Assignment Materials
             </a>
 		`,
 		show: true

@@ -44,8 +44,13 @@ const LECTURES = [
             </a> <br>
             <a href="resources.html#logic-resources" id="a_blue_link">
                 Logic Programming Resources
-            </a>
-            <br> <br>
+            </a> <br>
+            <a href="resources/bst.pl" id="a_blue_link">
+                BST Example
+            </a> <br>
+            <a href="resources/cgw.pl" id="a_blue_link">
+                 Cabbage, Goat, Wolf Example
+            </a> <br> <br>
 		`,
 		show: true
 	},
