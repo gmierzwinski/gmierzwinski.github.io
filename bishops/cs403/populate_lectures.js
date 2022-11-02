@@ -6,7 +6,7 @@ a JSON defined in this file.
 
 const LECTURES = [
 	{
-		title: "Lecture 01 - Course Outline, and History of Programming Languages",
+		title: "Lecture Set 01 - Course Outline, and History of Programming Languages",
 		date: "September 8th, 2022",
 		subtitle: "",
 		summary: `
@@ -20,8 +20,8 @@ const LECTURES = [
 		show: true
 	},
 	{
-		title: "Lecture 02 to 06 - Haskell",
-		date: "September 13th, 2022",
+		title: "Lecture Set 02 - Haskell",
+		date: "",
 		subtitle: "",
 		summary: `
             <a href="resources/CS403_Lecture_02.pdf" id="a_blue_link" target="_blank">
@@ -35,8 +35,8 @@ const LECTURES = [
 		show: true
 	},
 	{
-		title: "Lecture 07 to 10 - Prolog",
-		date: "October 11th, 2022",
+		title: "Lecture Set 03 - Prolog",
+		date: "",
 		subtitle: "",
 		summary: `
             <a href="resources/CS403_Lecture_03.pdf" id="a_blue_link" target="_blank">
@@ -50,6 +50,17 @@ const LECTURES = [
             </a> <br>
             <a href="resources/cgw.pl" id="a_blue_link">
                  Cabbage, Goat, Wolf Example
+            </a> <br> <br>
+		`,
+		show: true
+	},
+	{
+		title: "Lecture Set 04 - Parsing",
+		date: "",
+		subtitle: "",
+		summary: `
+            <a href="resources/CS403_Lecture_04.pdf" id="a_blue_link" target="_blank">
+                Parsing Slides
             </a> <br> <br>
 		`,
 		show: true
