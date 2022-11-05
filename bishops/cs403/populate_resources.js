@@ -167,6 +167,209 @@ const RESOURCES = [
 		`,
 		show: true
 	},
+	{
+		title: `<div id="parsing-resources">Scanning, and Parsing</div>`,
+		date: "",
+		subtitle: "",
+		summary: `
+<ul>
+	<li>Main resources (“required”): 
+
+		<p>
+		</p>
+		<ul>
+			<li><a id="a_blue_link" href="http://www.cl.cam.ac.uk/teaching/0910/RLFA/reglfa.pdf">Lecture Notes on Regular Languages and
+			     Finite
+			     Automata</a>
+			by Andrew M. Pitts (not mirrored locally since license is
+			   unknown).
+
+			<p>
+			Class coverage: Chapter 1 and Section 2.1.  The rest of the text
+			   may be interesting to read (but is not required).
+
+			</p></li>
+			<li><a id="a_blue_link" href="http://www.cs.binghamton.edu/~zdu/parsdemo/gramintro.html">Introduction to Grammars and Language
+			     Analysis</a>
+			by Zerksis D. Umrigar (not mirrored locally since license is
+			   unknown).
+
+			</li>
+			<li><a id="a_blue_link"" href="http://www.cs.binghamton.edu/~zdu/parsdemo/recintro.html">Introduction to Recursive Descent
+			     Parsing</a>
+			by Zerksis D. Umrigar (not mirrored locally since license is
+			   unknown).
+
+			</li>
+			<li><a id="a_blue_link" href="http://math.hws.edu/javanotes/c9/s5.html">A Simple Recursive Descent
+			     Parser</a>
+			from
+			   <a id="a_blue_link" href="http://math.hws.edu/javanotes/index.html">Introduction to Programming Using Java, Seventh
+			     Edition</a>
+			by David J.
+			   Eck (not mirrored locally since it is a small chapter from a
+			   fairly large book).
+
+			<p>
+			Note that this presentation uses Java, though the principles and
+			   algorithms are the same.
+			 
+			</p>
+			</li>
+		</ul>
+
+		<p>
+		</p>
+	</li>
+	<li>Other resources:
+		<ul>
+			<li><a id="a_blue_link" href="http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/handouts/080%20Formal%20Grammars.pdf">Formal grammars</a>
+			and <a id="a_blue_link" href="http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/handouts/090%20Top-Down%20Parsing.pdf">Top down parsing</a>
+			from <a id="a_blue_link" href="http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/">Stanford's Compilers course</a>
+			</li>
+			<li><a id="a_blue_link" href="https://www.engr.mun.ca/~theo/Misc/exp_parsing.htm">Parsing Expressions by Recursive
+			     Descent</a>
+			by
+			   Theodore Norvell
+			</li>
+			<li><a id="a_blue_link" href="http://www.cs.cmu.edu/~me/212/handouts/parsing.pdf">Some Notes on Grammars and
+			     Parsing</a>
+			by
+			   Michael Erdmann (quick introduction to context-free grammars and
+			   parsing)
+			 
+			</li>
+		</ul>
+	</li>
+</ul>
+		`,
+		show: true
+	},
+	{
+		title: `<div id="semantic-resources">Semantic Analysis</div>`,
+		date: "",
+		subtitle: "",
+		summary: `
+<ul>
+	<li>Main resources (“required”): 
+
+	<ul>
+	<li><a id="a_blue_link" href="http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/handouts/160%20Syntax-Directed%20Translation.pdf">Syntax-Directed Translation</a>
+	and <a id="a_blue_link" href="http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/handouts/180%20Semantic%20Analysis.pdf">Semantic Analysis</a>
+	from<a id="a_blue_link" href="http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/">Stanford's Compilers course</a>
+	(not
+	   mirrored locally since license is unknown).
+	</li>
+	<li><a id="a_blue_link" href="http://www.csd.uwo.ca/~moreno//CS447/Lectures/TypeChecking.ps.gz">Type
+	     checking</a>
+	by Marc Moreno Maza (license unknown)
+	 </li>
+	</ul>
+
+	</li>
+	<li>Other resources:
+
+	<ul>
+	<li><a id="a_blue_link" href="http://infolab.stanford.edu/~ullman/dragon/slides2.pdf">Styles of Syntax-Directed
+	     Translation</a>
+	</li>
+	<li><a id="a_blue_link" href="http://www.cse.chalmers.se/edu/year/2011/course/TIN321/lectures/proglang-07.html">Type
+	     checking</a>
+	by Aarne Ranta
+	 
+	</li>
+	</ul>
+
+	</li>
+</ul>
+		`,
+		show: true
+	},
+	{
+		title: `<div id="types-resources">Types, and Classes</div>`,
+		date: "",
+		subtitle: "",
+		summary: `
+<ul>
+
+	<li>Main resources (“required”): 
+
+	<ul>
+	<li><a id="a_blue_link" href="http://www.cs.utexas.edu/users/wcook/papers/OOPvsADT/CookOOPvsADT90.pdf">Object-Oriented Programming Versus Abstract
+	     Data
+	     Types</a>
+	by William R. Cook
+	</li>
+	<li><a id="a_blue_link" href="http://codebetter.com/raymondlewallen/2005/07/19/4-major-principles-of-object-oriented-programming/">4 major principles of Object-Oriented
+	     Programming</a>
+	</li>
+	</ul>
+
+	</li>
+	<li>Other resources:
+
+	<ul>
+	<li><a id="a_blue_link" href="https://ece.uwaterloo.ca/~dwharder/aads/Abstract_data_types/">Abstract Data
+	     Types</a>
+	</li>
+	</ul>
+	</li>
+
+</ul>
+		`,
+		show: true
+	},
+	{
+		title: `<div id="subprograms-resources">Subprograms</div>`,
+		date: "",
+		subtitle: "",
+		summary: `
+<ul>
+
+<li>Main resources (“required”): <a id="a_blue_link" href="http://cs2.uco.edu/~trt/cs4023/ch09.pdf">Fundamentals of
+     Subprograms</a>
+and
+   <a id="a_blue_link" href="http://cs2.uco.edu/~trt/cs4023/ch10.pdf">Implementing
+     Subprograms</a>
+by Thomas
+   R. Turner
+</li>
+
+</ul>
+		`,
+		show: true
+	},
+	{
+		title: `<div id="pointers-resources">Pointers</div>`,
+		date: "",
+		subtitle: "",
+		summary: `
+<ul>
+
+
+<li>Main resources (“required”): 
+
+<ul>
+<li><a id="a_blue_link" href="http://linuxconfig.org/c-understanding-pointers">C++ : Understanding
+     pointers</a>
+by
+   Lubos Rendek
+</li>
+<li><a id="a_blue_link" href="http://ootips.org/yonat/4dev/smart-pointers.html">Smart Pointers - What, Why,
+     Which?</a>
+by
+   Yonat Sharon
+ 
+</li>
+</ul>
+
+</li>
+
+
+</ul>
+		`,
+		show: true
+	},
 ];
 
 

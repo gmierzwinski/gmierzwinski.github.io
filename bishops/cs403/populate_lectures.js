@@ -61,6 +61,23 @@ const LECTURES = [
 		summary: `
             <a href="resources/CS403_Lecture_04.pdf" id="a_blue_link" target="_blank">
                 Parsing Slides
+            </a> <br>
+            <a href="resources.html#parsing-resources" id="a_blue_link">
+                Parsing Resources
+            </a> <br> <br>
+		`,
+		show: true
+	},
+	{
+		title: "Lecture Set 05 - Semantic Analysis",
+		date: "",
+		subtitle: "",
+		summary: `
+            <a href="resources/CS403_Lecture_05.pdf" id="a_blue_link" target="_blank">
+                Semantic Analysis Slides
+            </a> <br>
+            <a href="resources.html#semantic-resources" id="a_blue_link">
+                Semantics Resources
             </a> <br> <br>
 		`,
 		show: true
