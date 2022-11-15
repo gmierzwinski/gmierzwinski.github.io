@@ -41,6 +41,17 @@ const ASSIGNMENTS = [
 		`,
 		show: true
 	},
+	{
+		title: "Assignment 04 - Parsing",
+		date: "November 15th, 2022",
+		subtitle: "Due date: December 2nd",
+		summary: `
+            <a href="resources/CS403_Assignment_4.pdf" id="a_blue_link" target="_blank">
+                Assignment Instructions
+            </a>
+		`,
+		show: true
+	},
 ];
 
 
