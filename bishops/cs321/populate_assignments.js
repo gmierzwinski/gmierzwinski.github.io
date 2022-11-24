@@ -25,7 +25,7 @@ const ASSIGNMENTS = [
                 Assignment #2
             </a> <br> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Assignment 03 - Rat Race",
@@ -36,7 +36,7 @@ const ASSIGNMENTS = [
                 Assignment #3
             </a> <br> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Assignment 04 - Bank Simulation",
@@ -47,7 +47,7 @@ const ASSIGNMENTS = [
                 Assignment #4 (due March 25th)
             </a> <br> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Assignment 05 - Bishop's Bridge",
@@ -58,7 +58,7 @@ const ASSIGNMENTS = [
                 Assignment #5 (due April 8th)
             </a> <br> <br>
 		`,
-		show: true
+		show: false
 	},
 ];
 

@@ -41,7 +41,7 @@ const LECTURES = [
                 Java Statements
             </a>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lecture 03 - Control, Strings, and Arrays",
@@ -55,7 +55,7 @@ const LECTURES = [
                 Strings, and Arrays
             </a> <br> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lecture 04 - Methods, Objects, and Assignment #1",
@@ -77,7 +77,7 @@ const LECTURES = [
                 Parameter Passing
             </a>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lecture 05 - Industrial Class Design",
@@ -88,7 +88,7 @@ const LECTURES = [
                 Industrial Class Design
             </a> <br> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lecture 06 - Inheritance & Polymorphism",
@@ -102,7 +102,7 @@ const LECTURES = [
                 Assignment #2
             </a> <br> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lecture 07 - Abstract Classes, & Interfaces",
@@ -116,7 +116,7 @@ const LECTURES = [
                 Abstract Classes, and Interfacecs
             </a> <br> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lecture 08 - UML, & Github",
@@ -135,7 +135,7 @@ const LECTURES = [
                 UML Detailed
             </a>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lecture 09 - Inner Classes",
@@ -152,7 +152,7 @@ const LECTURES = [
                 Assignment #3 (See Moodle for Starter Code)
             </a> <br> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lecture 10 - Linting, and Exceptions",
@@ -169,7 +169,7 @@ const LECTURES = [
                 Exceptions
             </a> <br> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lecture 11 - Java Generics",
@@ -180,7 +180,7 @@ const LECTURES = [
                 Generics
             </a> <br> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lecture 12 - Midterm Review",
@@ -191,7 +191,7 @@ const LECTURES = [
                 Midterm Review
             </a> <br> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lecture 13 - Rounding off OOP, and Java Swing GUIs",
@@ -211,7 +211,7 @@ const LECTURES = [
                 Graphics
             </a> <br> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lecture 14 - Intro to Design Patterns",
@@ -222,7 +222,7 @@ const LECTURES = [
                 Intro to Design Patterns
             </a> <br> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lecture 15 - Design Patterns (Observer, Template, Singleton, Adapter)",
@@ -242,7 +242,7 @@ const LECTURES = [
                 Singleton Pattern
             </a> <br> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lecture 16 - Intro to Threads, and Multi-threaded Programming",
@@ -253,7 +253,7 @@ const LECTURES = [
                 Threads
             </a> <br> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lecture 17 - Thread Synchronization, and Semaphores",
@@ -267,7 +267,7 @@ const LECTURES = [
                 Semaphores
             </a> <br> <br>
 		`,
-		show: true
+		show: false
 	},
 ];
 
