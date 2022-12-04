@@ -25,7 +25,7 @@ const LABS = [
                 Lab Instructions
             </a> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lab 03 - Objects, and Class Methods",
@@ -36,7 +36,7 @@ const LABS = [
                 Lab Instructions
             </a> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lab 04 - Interfaces, and Inheritance",
@@ -47,7 +47,7 @@ const LABS = [
                 Lab Instructions
             </a> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lab 05 - Midterm Review with Iterators",
@@ -58,7 +58,7 @@ const LABS = [
                 Lab Instructions
             </a> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lab 06 - Orchestras",
@@ -69,7 +69,7 @@ const LABS = [
                 Lab Instructions
             </a> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lab 07 - Java GUI Building (Bonus Lab)",
@@ -81,7 +81,7 @@ const LABS = [
             </a> <br>
             If this lab is completed, then the lowest scored lab will be removed from the overall grade. <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lab 08 - Patterns, and derivation",
@@ -92,7 +92,7 @@ const LABS = [
                 Lab Instructions
             </a> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lab 09 - Tripleton, and Observer Pattern",
@@ -103,7 +103,7 @@ const LABS = [
                 Lab Instructions
             </a> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lab 10 - The Multithreaded Cook",
@@ -114,7 +114,7 @@ const LABS = [
                 Lab Instructions
             </a> <br>
 		`,
-		show: true
+		show: false
 	}
 ];
 
