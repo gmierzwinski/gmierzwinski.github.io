@@ -6,7 +6,7 @@ a JSON defined in this file.
 
 const PROJECT_SECTIONS = [
 	{
-		title: `<div style="color:red">Due: December 28th (midnight)`,
+		title: `<div style="color:red">Due: December 30th (midnight)`,
 		date: "",
 		subtitle: "",
 		summary: `
