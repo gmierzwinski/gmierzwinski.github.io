@@ -7,7 +7,7 @@ a JSON defined in this file.
 const LABS = [
 	{
 		title: "Lab 01 - Setup and Hello World",
-		date: "January 18, 2022",
+		date: "January 15, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_01.pdf" style="color: blue" target="_blank">
@@ -18,7 +18,7 @@ const LABS = [
 	},
 	{
 		title: "Lab 02 - Arrays",
-		date: "January 25, 2022",
+		date: "January 22, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_02.pdf" style="color: blue" target="_blank">
@@ -29,7 +29,7 @@ const LABS = [
 	},
 	{
 		title: "Lab 03 - Objects, and Class Methods",
-		date: "February 1, 2022",
+		date: "January 29, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_03.pdf" style="color: blue" target="_blank">
@@ -40,7 +40,7 @@ const LABS = [
 	},
 	{
 		title: "Lab 04 - Interfaces, and Inheritance",
-		date: "February 8, 2022",
+		date: "February 12, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_04.pdf" style="color: blue" target="_blank">
@@ -51,7 +51,7 @@ const LABS = [
 	},
 	{
 		title: "Lab 05 - Midterm Review with Iterators",
-		date: "February 15, 2022",
+		date: "February 19, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_05.pdf" style="color: blue" target="_blank">
@@ -62,7 +62,7 @@ const LABS = [
 	},
 	{
 		title: "Lab 06 - Orchestras",
-		date: "February 22, 2022",
+		date: "February 26, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_06.pdf" style="color: blue" target="_blank">
@@ -73,7 +73,7 @@ const LABS = [
 	},
 	{
 		title: "Lab 07 - Java GUI Building (Bonus Lab)",
-		date: "March 11, 2022",
+		date: "March 11, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_07.pdf" style="color: blue" target="_blank">
@@ -85,7 +85,7 @@ const LABS = [
 	},
 	{
 		title: "Lab 08 - Patterns, and derivation",
-		date: "March 15, 2022",
+		date: "March 18, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_08.pdf" style="color: blue" target="_blank">
@@ -96,7 +96,7 @@ const LABS = [
 	},
 	{
 		title: "Lab 09 - Tripleton, and Observer Pattern",
-		date: "March 22, 2022",
+		date: "March 25, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_09.pdf" style="color: blue" target="_blank">
@@ -107,7 +107,7 @@ const LABS = [
 	},
 	{
 		title: "Lab 10 - The Multithreaded Cook",
-		date: "March 29, 2022",
+		date: "April 1, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_10.pdf" style="color: blue" target="_blank">

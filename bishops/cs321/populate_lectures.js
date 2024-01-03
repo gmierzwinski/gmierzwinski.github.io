@@ -7,16 +7,16 @@ a JSON defined in this file.
 const LECTURES = [
 	{
 		title: "Lecture 01 - Introduction, Course Outline, and Java Basics",
-		date: "January 14, 2022",
+		date: "January 10, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Course_Outline.pdf" style="color: blue" target="_blank">
                 Course Outline
             </a> <br>
-            <a href="resources/CS321_Lecture_01.pptx" style="color: blue" target="_blank">
+            <a href="resources/CS321_Lecture_01.odp" style="color: blue" target="_blank">
                 Quick Java Overview and Hello World!
             </a> <br>
-            <a href="https://www.oracle.com/java/technologies/downloads/#jdk17-windows" style="color: blue" target="_blank">
+            <a href="https://www.oracle.com/java/technologies/downloads/#jdk21-windows" style="color: blue" target="_blank">
             	JDK Download for \`javac\` and \`java\` Example
             </a> <br> <br>
             <hr>
@@ -29,7 +29,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 02 - Java Basics I",
-		date: "January 18, 2022",
+		date: "January 18, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_02.pptx" style="color: blue" target="_blank">
@@ -45,7 +45,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 03 - Control, Strings, and Arrays",
-		date: "January 21, 2022",
+		date: "January 21, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_03A.pptx" style="color: blue" target="_blank">
@@ -59,7 +59,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 04 - Methods, Objects, and Assignment #1",
-		date: "January 25, 2022",
+		date: "January 25, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_04.pptx" style="color: blue" target="_blank">
@@ -81,7 +81,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 05 - Industrial Class Design",
-		date: "January 28, 2022",
+		date: "January 28, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_05.pptx" style="color: blue" target="_blank">
@@ -92,7 +92,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 06 - Inheritance & Polymorphism",
-		date: "February 1, 2022",
+		date: "February 1, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_06.pptx" style="color: blue" target="_blank">
@@ -106,7 +106,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 07 - Abstract Classes, & Interfaces",
-		date: "February 4, 2022",
+		date: "February 4, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_07A.pptx" style="color: blue" target="_blank">
@@ -120,7 +120,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 08 - UML, & Github",
-		date: "February 8, 2022",
+		date: "February 8, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_08A.pptx" style="color: blue" target="_blank">
@@ -139,7 +139,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 09 - Inner Classes",
-		date: "February 11, 2022",
+		date: "February 11, 2024",
 		subtitle: "",
 		summary: `
 		    <a href="https://ensemble.ubishops.ca/Watch/t9A5Qoa7" style="color: blue" target="_blank">
@@ -156,7 +156,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 10 - Linting, and Exceptions",
-		date: "February 15, 2022",
+		date: "February 15, 2024",
 		subtitle: "",
 		summary: `
             <a href="https://ensemble.ubishops.ca/Watch/t9A5Qoa7" style="color: blue" target="_blank">
@@ -173,7 +173,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 11 - Java Generics",
-		date: "February 22, 2022",
+		date: "February 22, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_11.pptx" style="color: blue" target="_blank">
@@ -184,7 +184,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 12 - Midterm Review",
-		date: "February 25, 2022",
+		date: "February 25, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_12.pptx" style="color: blue" target="_blank">
@@ -195,7 +195,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 13 - Rounding off OOP, and Java Swing GUIs",
-		date: "March 11, 2022",
+		date: "March 11, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_13.pptx" style="color: blue" target="_blank">
@@ -215,7 +215,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 14 - Intro to Design Patterns",
-		date: "March 15, 2022",
+		date: "March 15, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_14.pptx" style="color: blue" target="_blank">
@@ -226,7 +226,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 15 - Design Patterns (Observer, Template, Singleton, Adapter)",
-		date: "March 18, 2022",
+		date: "March 18, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_15D.pptx" style="color: blue" target="_blank">
@@ -246,7 +246,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 16 - Intro to Threads, and Multi-threaded Programming",
-		date: "March 22, 2022",
+		date: "March 22, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_16.pptx" style="color: blue" target="_blank">
@@ -257,7 +257,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 17 - Thread Synchronization, and Semaphores",
-		date: "March 25, 2022",
+		date: "March 25, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_17A.pptx" style="color: blue" target="_blank">
