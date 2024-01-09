@@ -13,7 +13,7 @@ const LECTURES = [
             <a href="resources/CS321_Course_Outline.pdf" style="color: blue" target="_blank">
                 Course Outline
             </a> <br>
-            <a href="resources/CS321_Lecture_01.odp" style="color: blue" target="_blank">
+            <a href="resources/CS321_Lecture_01.pptx" style="color: blue" target="_blank">
                 Quick Java Overview and Hello World!
             </a> <br>
             <a href="https://www.oracle.com/java/technologies/downloads/#jdk21-windows" style="color: blue" target="_blank">
