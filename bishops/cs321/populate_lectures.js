@@ -34,6 +34,9 @@ const LECTURES = [
 		summary: `
             <a href="resources/CS321_Lecture_02.pptx" style="color: blue" target="_blank">
                 Java Basics I – Variables, Expressions, and Operators
+            </a> <br>
+            <a href="resources/CS321_Lecture_02.odp" style="color: blue" target="_blank">
+                Java Basics I – Variables, Expressions, and Operators (LibreOffice version)
             </a> <br> <br>
             <hr>
             <b>Additional Resources:</b> <br>
