@@ -11,7 +11,7 @@ const LABS = [
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_01.pdf" style="color: blue" target="_blank">
-                Lab Instructions
+                Lab Instructions (due January 22nd)
             </a> <br>
 		`,
 		show: true
@@ -22,7 +22,7 @@ const LABS = [
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_02.pdf" style="color: blue" target="_blank">
-                Lab Instructions
+                Lab Instructions (due January 29th)
             </a> <br>
 		`,
 		show: false
