@@ -51,10 +51,10 @@ const LECTURES = [
 		date: "January 17, 2024",
 		subtitle: "",
 		summary: `
-            <a href="resources/CS321_Lecture_03A.pptx" style="color: blue" target="_blank">
+            <a href="resources/CS321_Lecture_03A.ppt" style="color: blue" target="_blank">
                 Control Statements
             </a> <br>
-            <a href="resources/CS321_Lecture_03B.pptx" style="color: blue" target="_blank">
+            <a href="resources/CS321_Lecture_03B.ppt" style="color: blue" target="_blank">
                 Strings, and Arrays
             </a> <br> <br>
 		`,
