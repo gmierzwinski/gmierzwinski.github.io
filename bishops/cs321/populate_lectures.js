@@ -62,10 +62,10 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 04 - Methods, Objects, and Assignment #1",
-		date: "January 25, 2024",
+		date: "January 22, 2024",
 		subtitle: "",
 		summary: `
-            <a href="resources/CS321_Lecture_04.pptx" style="color: blue" target="_blank">
+            <a href="resources/CS321_Lecture_04.ppt" style="color: blue" target="_blank">
                 Methods, and Objects
             </a> <br>
             <a href="resources/CS321_Assignment_1_Java_Arrays.pdf" style="color: blue" target="_blank">
@@ -80,18 +80,18 @@ const LECTURES = [
                 Parameter Passing
             </a>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 05 - Industrial Class Design",
-		date: "January 28, 2024",
+		date: "January 24, 2024",
 		subtitle: "",
 		summary: `
-            <a href="resources/CS321_Lecture_05.pptx" style="color: blue" target="_blank">
+            <a href="resources/CS321_Lecture_05.ppt" style="color: blue" target="_blank">
                 Industrial Class Design
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 06 - Inheritance & Polymorphism",

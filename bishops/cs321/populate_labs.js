@@ -25,7 +25,7 @@ const LABS = [
                 Lab Instructions (due January 29th)
             </a> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lab 03 - Objects, and Class Methods",
