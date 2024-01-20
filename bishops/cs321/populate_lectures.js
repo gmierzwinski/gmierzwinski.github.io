@@ -71,6 +71,9 @@ const LECTURES = [
             <a href="resources/CS321_Assignment_1_Java_Arrays.pdf" style="color: blue" target="_blank">
                 Assignment #1
             </a> <br>
+            <a href="resources/CS321_Assignment_1_Input.txt" style="color: blue" target="_blank">
+                Assignment #1 Input
+            </a> <br>
             <a href="https://github.com/ubishops-cs321/github-starter-course" style="color: blue" target="_blank">
                 Github Starter Coruse
             </a> <br> <br>
