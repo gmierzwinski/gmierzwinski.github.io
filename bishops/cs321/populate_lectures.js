@@ -92,6 +92,9 @@ const LECTURES = [
 		summary: `
             <a href="resources/CS321_Lecture_05.ppt" style="color: blue" target="_blank">
                 Industrial Class Design
+            </a> <br>
+            <a href="resources/CloningExample.java" style="color: blue" target="_blank">
+                Java Cloning Example Code
             </a> <br> <br>
 		`,
 		show: true
