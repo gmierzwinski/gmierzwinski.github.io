@@ -106,9 +106,6 @@ const LECTURES = [
 		summary: `
             <a href="resources/CS321_Lecture_06.ppt" style="color: blue" target="_blank">
                 Inheritance & Polymorphism
-            </a> <br>
-            <a href="resources/CS321_Assignment_2_Objects.pdf" style="color: blue" target="_blank">
-                Assignment #2
             </a> <br> <br>
 		`,
 		show: true
