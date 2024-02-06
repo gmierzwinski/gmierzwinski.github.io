@@ -112,7 +112,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 07 - Abstract Classes, & Interfaces",
-		date: "February 5, 2024",
+		date: "February 7, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_07A.ppt" style="color: blue" target="_blank">
@@ -120,6 +120,9 @@ const LECTURES = [
             </a> <br>
             <a href="resources/CS321_Lecture_07B.ppt" style="color: blue" target="_blank">
                 Abstract Classes, and Interfacecs
+            </a> <br>
+            <a href="resources/CS321_Assignment_2_Objects.ppt" style="color: blue" target="_blank">
+                Assignment #2
             </a> <br> <br>
 		`,
 		show: true

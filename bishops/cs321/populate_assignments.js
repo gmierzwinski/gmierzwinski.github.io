@@ -28,7 +28,7 @@ const ASSIGNMENTS = [
                 Assignment #2 (due February 21st)
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Assignment 03 - Rat Race",

@@ -33,7 +33,7 @@ const LABS = [
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_03.pdf" style="color: blue" target="_blank">
-                Lab Instructions
+                Lab Instructions (due February 12th)
             </a> <br>
 		`,
 		show: true
