@@ -121,7 +121,7 @@ const LECTURES = [
             <a href="resources/CS321_Lecture_07B.ppt" style="color: blue" target="_blank">
                 Abstract Classes, and Interfacecs
             </a> <br>
-            <a href="resources/CS321_Assignment_2_Objects.ppt" style="color: blue" target="_blank">
+            <a href="resources/CS321_Assignment_2_Objects.pdf" style="color: blue" target="_blank">
                 Assignment #2
             </a> <br> <br>
 		`,
