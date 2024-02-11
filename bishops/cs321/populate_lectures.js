@@ -128,14 +128,25 @@ const LECTURES = [
 		show: true
 	},
 	{
-		title: "Lecture 08 - UML, & Github",
-		date: "February 8, 2024",
+		title: "Lecture 07B - Abstract Classes, & Interfaces",
+		date: "February 12, 2024",
 		subtitle: "",
 		summary: `
-            <a href="resources/CS321_Lecture_08A.pptx" style="color: blue" target="_blank">
+            <a href="resources/CS321_Lecture_07B.ppt" style="color: blue" target="_blank">
+                Abstract Classes, and Interfacecs
+            </a> <br> <br>
+		`,
+		show: true
+	},
+	{
+		title: "Lecture 08 - UML, & Github",
+		date: "February 14, 2024",
+		subtitle: "",
+		summary: `
+            <a href="resources/CS321_Lecture_08A.ppt" style="color: blue" target="_blank">
                 UML Quick Overview
             </a> <br>
-            <a href="resources/CS321_Lecture_08B.pptx" style="color: blue" target="_blank">
+            <a href="resources/CS321_Lecture_08B.ppt" style="color: blue" target="_blank">
                 VCS, Git, & Github
             </a> <br> <br>
             <hr>
@@ -144,24 +155,21 @@ const LECTURES = [
                 UML Detailed
             </a>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 09 - Inner Classes",
-		date: "February 11, 2024",
+		date: "February 19, 2024",
 		subtitle: "",
 		summary: `
 		    <a href="https://ensemble.ubishops.ca/Watch/t9A5Qoa7" style="color: blue" target="_blank">
                 How to Auto-Format Your Code
             </a> <br>
-            <a href="resources/CS321_Lecture_09.pptx" style="color: blue" target="_blank">
+            <a href="resources/CS321_Lecture_09.ppt" style="color: blue" target="_blank">
                 Inner Classes
-            </a> <br>
-            <a href="resources/CS321_Assignment_3_Rat_Race.pdf" style="color: blue" target="_blank">
-                Assignment #3 (See Moodle for Starter Code)
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 10 - Linting, and Exceptions",
