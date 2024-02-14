@@ -128,26 +128,15 @@ const LECTURES = [
 		show: true
 	},
 	{
-		title: "Lecture 07B - Abstract Classes, & Interfaces",
+		title: "Lecture 08 - Abstract Classes, Interfaces, & UML",
 		date: "February 12, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_07B.ppt" style="color: blue" target="_blank">
                 Abstract Classes, and Interfacecs
-            </a> <br> <br>
-		`,
-		show: true
-	},
-	{
-		title: "Lecture 08 - UML, & Github",
-		date: "February 14, 2024",
-		subtitle: "",
-		summary: `
+            </a> <br>
             <a href="resources/CS321_Lecture_08A.ppt" style="color: blue" target="_blank">
                 UML Quick Overview
-            </a> <br>
-            <a href="resources/CS321_Lecture_08B.ppt" style="color: blue" target="_blank">
-                VCS, Git, & Github
             </a> <br> <br>
             <hr>
             <b>Additional Resources:</b> <br>
@@ -158,14 +147,14 @@ const LECTURES = [
 		show: true
 	},
 	{
-		title: "Lecture 09 - Inner Classes",
-		date: "February 19, 2024",
+		title: "Lecture 09 - VCS, & Inner Classes",
+		date: "February 14, 2024",
 		subtitle: "",
 		summary: `
-		    <a href="https://ensemble.ubishops.ca/Watch/t9A5Qoa7" style="color: blue" target="_blank">
-                How to Auto-Format Your Code
-            </a> <br>
-            <a href="resources/CS321_Lecture_09.ppt" style="color: blue" target="_blank">
+            <a href="resources/CS321_Lecture_08B.pptx" style="color: blue" target="_blank">
+                VCS, Git, & Github
+            </a> <br> 
+            <a href="resources/CS321_Lecture_09.pptx" style="color: blue" target="_blank">
                 Inner Classes
             </a> <br> <br>
 		`,
@@ -173,7 +162,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 10 - Linting, and Exceptions",
-		date: "February 15, 2024",
+		date: "February 19, 2024",
 		subtitle: "",
 		summary: `
             <a href="https://ensemble.ubishops.ca/Watch/t9A5Qoa7" style="color: blue" target="_blank">
@@ -190,7 +179,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 11 - Java Generics",
-		date: "February 22, 2024",
+		date: "February 21, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_11.pptx" style="color: blue" target="_blank">
@@ -201,7 +190,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 12 - Midterm Review",
-		date: "February 25, 2024",
+		date: "February 26, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_12.pptx" style="color: blue" target="_blank">
