@@ -175,7 +175,7 @@ const LECTURES = [
                 Exceptions
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 11 - Java Generics",

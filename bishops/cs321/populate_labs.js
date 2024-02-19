@@ -58,7 +58,7 @@ const LABS = [
                 Lab Instructions
             </a> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lab 06 - Orchestras",
