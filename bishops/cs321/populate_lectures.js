@@ -186,7 +186,7 @@ const LECTURES = [
                 Generics
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 12 - Midterm Review",
