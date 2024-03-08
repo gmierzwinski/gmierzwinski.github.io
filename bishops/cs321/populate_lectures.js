@@ -217,18 +217,18 @@ const LECTURES = [
                 Graphics
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 14 - Intro to Design Patterns",
-		date: "March 15, 2024",
+		date: "March 13, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_14.pptx" style="color: blue" target="_blank">
                 Intro to Design Patterns
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 15 - Design Patterns (Observer, Template, Singleton, Adapter)",
@@ -252,7 +252,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 16 - Intro to Threads, and Multi-threaded Programming",
-		date: "March 22, 2024",
+		date: "March 21, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_16.pptx" style="color: blue" target="_blank">
