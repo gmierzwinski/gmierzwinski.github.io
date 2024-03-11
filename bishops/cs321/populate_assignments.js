@@ -32,7 +32,7 @@ const ASSIGNMENTS = [
 	},
 	{
 		title: "Assignment 03 - Rat Race",
-		date: "February 24, 2024",
+		date: "February 26, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Assignment_3_Rat_Race.pdf" style="color: blue" target="_blank">
