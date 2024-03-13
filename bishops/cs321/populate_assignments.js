@@ -50,7 +50,7 @@ const ASSIGNMENTS = [
                 Assignment #4 (due March 27th)
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Assignment 05 - Bishop's Bridge",
