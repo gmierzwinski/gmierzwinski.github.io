@@ -89,10 +89,10 @@ const LABS = [
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_08.pdf" style="color: blue" target="_blank">
-                Lab Instructions
+                Lab Instructions (due by March 25th)
             </a> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lab 09 - Tripleton, and Observer Pattern",
@@ -100,7 +100,7 @@ const LABS = [
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_09.pdf" style="color: blue" target="_blank">
-                Lab Instructions
+                Lab Instructions (due by April 1st)
             </a> <br>
 		`,
 		show: false
@@ -111,7 +111,7 @@ const LABS = [
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_10.pdf" style="color: blue" target="_blank">
-                Lab Instructions
+                Lab Instructions (due by April 8th)
             </a> <br>
 		`,
 		show: false

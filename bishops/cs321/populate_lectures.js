@@ -248,7 +248,7 @@ const LECTURES = [
                 Singleton Pattern
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 16 - Intro to Threads, and Multi-threaded Programming",
