@@ -232,7 +232,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 15 - Design Patterns (Observer, Template, Singleton, Adapter)",
-		date: "March 18, 2024",
+		date: "March 18, 2024 - March 21, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_15D.pptx" style="color: blue" target="_blank">
