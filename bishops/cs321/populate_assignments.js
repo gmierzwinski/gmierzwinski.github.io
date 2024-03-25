@@ -61,7 +61,7 @@ const ASSIGNMENTS = [
                 Assignment #5 (due April 10th)
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 ];
 

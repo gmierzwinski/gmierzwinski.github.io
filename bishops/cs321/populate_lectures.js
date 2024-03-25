@@ -252,18 +252,18 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 16 - Intro to Threads, and Multi-threaded Programming",
-		date: "March 21, 2024",
+		date: "March 25, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_16.pptx" style="color: blue" target="_blank">
                 Threads
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 17 - Thread Synchronization, and Semaphores",
-		date: "March 25, 2024",
+		date: "March 27, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_17A.pptx" style="color: blue" target="_blank">
@@ -273,7 +273,7 @@ const LECTURES = [
                 Semaphores
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 ];
 
