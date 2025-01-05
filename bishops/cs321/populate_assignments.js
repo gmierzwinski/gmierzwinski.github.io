@@ -7,11 +7,11 @@ a JSON defined in this file.
 const ASSIGNMENTS = [
 	{
 		title: "Assignment 01 - Java Arrays",
-		date: "January 22, 2024",
+		date: "January 21, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Assignment_1_Java_Arrays.pdf" style="color: blue" target="_blank">
-                Assignment #1 (due February 5th)
+                Assignment #1 (due February 4th)
             </a> <br>
             <a href="resources/CS321_Assignment_1_Input.txt" style="color: blue" target="_blank">
                 Assignment #1 Input
@@ -28,7 +28,7 @@ const ASSIGNMENTS = [
                 Assignment #2 (due February 21st)
             </a> <br> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Assignment 03 - Rat Race",
@@ -39,7 +39,7 @@ const ASSIGNMENTS = [
                 Assignment #3 (due March 13th)
             </a> <br> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Assignment 04 - Bank Simulation",
@@ -50,7 +50,7 @@ const ASSIGNMENTS = [
                 Assignment #4 (due March 27th)
             </a> <br> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Assignment 05 - Bishop's Bridge",
@@ -61,7 +61,7 @@ const ASSIGNMENTS = [
                 Assignment #5 (due April 10th)
             </a> <br> <br>
 		`,
-		show: true
+		show: false
 	},
 ];
 

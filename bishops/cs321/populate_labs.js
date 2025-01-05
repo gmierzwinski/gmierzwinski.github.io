@@ -7,11 +7,11 @@ a JSON defined in this file.
 const LABS = [
 	{
 		title: "Lab 01 - Setup and Hello World",
-		date: "January 15, 2024",
+		date: "January 14, 2025",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_01.pdf" style="color: blue" target="_blank">
-                Lab Instructions (due January 22nd)
+                Lab Instructions (due January 21st)
             </a> <br>
 		`,
 		show: true
@@ -25,7 +25,7 @@ const LABS = [
                 Lab Instructions (due January 29th)
             </a> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lab 03 - Objects, and Class Methods",
@@ -36,7 +36,7 @@ const LABS = [
                 Lab Instructions (due February 12th)
             </a> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lab 04 - Interfaces, and Inheritance",
@@ -47,7 +47,7 @@ const LABS = [
                 Lab Instructions
             </a> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lab 05 - Midterm Review with Iterators",
@@ -58,7 +58,7 @@ const LABS = [
                 Lab Instructions
             </a> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lab 06 - Orchestras",
@@ -69,7 +69,7 @@ const LABS = [
                 Lab Instructions
             </a> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lab 07 - Java GUI Building (Bonus Lab)",
@@ -81,7 +81,7 @@ const LABS = [
             </a> <br>
             If this lab is completed, then the lowest scored lab will be removed from the overall grade. <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lab 08 - Patterns, and derivation",
@@ -92,7 +92,7 @@ const LABS = [
                 Lab Instructions (due by March 25th)
             </a> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lab 09 - Tripleton, and Observer Pattern",
@@ -103,7 +103,7 @@ const LABS = [
                 Lab Instructions (due by April 2nd)
             </a> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lab 10 - The Multithreaded Cook",
@@ -114,7 +114,7 @@ const LABS = [
                 Lab Instructions (due by April 10th)
             </a> <br>
 		`,
-		show: true
+		show: false
 	}
 ];
 
