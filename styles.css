@@ -34,7 +34,7 @@ body {
 }
 
 #aside {
-    background-image: url('images/sidebars2-min.jpg');
+    background-image: url('images/sidebars.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: left; 
@@ -261,7 +261,7 @@ a:hover {
 }
 
 .menu {
-    background-image: url('images/sidebars2-min.jpg');
+    background-image: url('images/sidebars.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: left; 
