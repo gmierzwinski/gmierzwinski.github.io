@@ -32,7 +32,7 @@ const LECTURES = [
 		date: "January 14, 2025",
 		subtitle: "",
 		summary: `
-            <a href="resources/CS321_Lecture_02.ppt" style="color: blue" target="_blank">
+            <a href="resources/CS321_Lecture_02.pptx" style="color: blue" target="_blank">
                 Java Basics I – Variables, Expressions, and Operators
             </a> <br>
             <a href="resources/CS321_Lecture_02.odp" style="color: blue" target="_blank">
