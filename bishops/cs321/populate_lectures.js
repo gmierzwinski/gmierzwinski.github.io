@@ -48,7 +48,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 03 - Control, Strings, and Arrays",
-		date: "January 17, 2024",
+		date: "January 16, 2025",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_03A.ppt" style="color: blue" target="_blank">
@@ -58,11 +58,11 @@ const LECTURES = [
                 Strings, and Arrays
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 04 - Methods, Objects, and Assignment #1",
-		date: "January 22, 2024",
+		date: "January 21, 2025",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_04.ppt" style="color: blue" target="_blank">
@@ -83,7 +83,7 @@ const LECTURES = [
                 Parameter Passing
             </a>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 05 - Industrial Class Design",
