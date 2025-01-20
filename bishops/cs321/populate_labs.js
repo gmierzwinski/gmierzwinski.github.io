@@ -18,14 +18,14 @@ const LABS = [
 	},
 	{
 		title: "Lab 02 - Arrays",
-		date: "January 22, 2024",
+		date: "January 21, 2025",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_02.pdf" style="color: blue" target="_blank">
-                Lab Instructions (due January 29th)
+                Lab Instructions (due January 28th)
             </a> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lab 03 - Objects, and Class Methods",
