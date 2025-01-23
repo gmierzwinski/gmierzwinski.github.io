@@ -65,7 +65,7 @@ const LECTURES = [
 		date: "January 21, 2025",
 		subtitle: "",
 		summary: `
-            <a href="resources/CS321_Lecture_04.ppt" style="color: blue" target="_blank">
+            <a href="resources/CS321_Lecture_04.pptx" style="color: blue" target="_blank">
                 Methods, and Objects
             </a> <br>
             <a href="resources/CS321_Assignment_1_Java_Arrays.pdf" style="color: blue" target="_blank">
@@ -90,7 +90,7 @@ const LECTURES = [
 		date: "January 24, 2024",
 		subtitle: "",
 		summary: `
-            <a href="resources/CS321_Lecture_05.ppt" style="color: blue" target="_blank">
+            <a href="resources/CS321_Lecture_05.pptx" style="color: blue" target="_blank">
                 Industrial Class Design
             </a> <br>
             <a href="resources/CloningExample.java" style="color: blue" target="_blank">
@@ -104,7 +104,7 @@ const LECTURES = [
 		date: "January 29, 2024",
 		subtitle: "",
 		summary: `
-            <a href="resources/CS321_Lecture_06.ppt" style="color: blue" target="_blank">
+            <a href="resources/CS321_Lecture_06.pptx" style="color: blue" target="_blank">
                 Inheritance & Polymorphism
             </a> <br> <br>
 		`,
@@ -115,10 +115,10 @@ const LECTURES = [
 		date: "February 7, 2024",
 		subtitle: "",
 		summary: `
-            <a href="resources/CS321_Lecture_07A.ppt" style="color: blue" target="_blank">
+            <a href="resources/CS321_Lecture_07A.pptx" style="color: blue" target="_blank">
                 Inheritance
             </a> <br>
-            <a href="resources/CS321_Lecture_07B.ppt" style="color: blue" target="_blank">
+            <a href="resources/CS321_Lecture_07B.pptx" style="color: blue" target="_blank">
                 Abstract Classes, and Interfacecs
             </a> <br>
             <a href="resources/CS321_Assignment_2_Objects.pdf" style="color: blue" target="_blank">
@@ -132,10 +132,10 @@ const LECTURES = [
 		date: "February 12, 2024",
 		subtitle: "",
 		summary: `
-            <a href="resources/CS321_Lecture_07B.ppt" style="color: blue" target="_blank">
+            <a href="resources/CS321_Lecture_07B.pptx" style="color: blue" target="_blank">
                 Abstract Classes, and Interfacecs
             </a> <br>
-            <a href="resources/CS321_Lecture_08A.ppt" style="color: blue" target="_blank">
+            <a href="resources/CS321_Lecture_08A.pptx" style="color: blue" target="_blank">
                 UML Quick Overview
             </a> <br> <br>
             <hr>
