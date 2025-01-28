@@ -97,7 +97,7 @@ const LECTURES = [
                 Java Cloning Example Code
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 06 - Inheritance & Polymorphism",
@@ -108,7 +108,7 @@ const LECTURES = [
                 Inheritance & Polymorphism
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 07 - Abstract Classes, & Interfaces",
