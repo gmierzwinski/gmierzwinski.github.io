@@ -40,14 +40,14 @@ const LABS = [
 	},
 	{
 		title: "Lab 04 - Interfaces, and Inheritance",
-		date: "February 12, 2024",
+		date: "February 4, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_04.pdf" style="color: blue" target="_blank">
-                Lab Instructions
+                Lab Instructions (due February 11th)
             </a> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lab 05 - Midterm Review with Iterators",
@@ -55,7 +55,7 @@ const LABS = [
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_05.pdf" style="color: blue" target="_blank">
-                Lab Instructions
+                Lab Instructions (due February 18th)
             </a> <br>
 		`,
 		show: false
@@ -66,7 +66,7 @@ const LABS = [
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_06.pdf" style="color: blue" target="_blank">
-                Lab Instructions
+                Lab Instructions (due February 25th)
             </a> <br>
 		`,
 		show: false
@@ -89,7 +89,7 @@ const LABS = [
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_08.pdf" style="color: blue" target="_blank">
-                Lab Instructions (due by March 25th)
+                Lab Instructions (due by March 18th)
             </a> <br>
 		`,
 		show: false
@@ -100,7 +100,7 @@ const LABS = [
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_09.pdf" style="color: blue" target="_blank">
-                Lab Instructions (due by April 2nd)
+                Lab Instructions (due by March 25th)
             </a> <br>
 		`,
 		show: false
@@ -111,7 +111,7 @@ const LABS = [
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_10.pdf" style="color: blue" target="_blank">
-                Lab Instructions (due by April 10th)
+                Lab Instructions (due by April 1st)
             </a> <br>
 		`,
 		show: false

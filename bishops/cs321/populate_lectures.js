@@ -112,7 +112,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 07 - Abstract Classes, & Interfaces",
-		date: "February 7, 2024",
+		date: "February 4, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_07A.pptx" style="color: blue" target="_blank">
@@ -125,11 +125,11 @@ const LECTURES = [
                 Assignment #2
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 08 - Abstract Classes, Interfaces, & UML",
-		date: "February 12, 2024",
+		date: "February 6, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_07B.pptx" style="color: blue" target="_blank">
@@ -144,7 +144,7 @@ const LECTURES = [
                 UML Detailed
             </a>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 09 - VCS, & Inner Classes",

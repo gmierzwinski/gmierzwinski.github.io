@@ -21,14 +21,14 @@ const ASSIGNMENTS = [
 	},
 	{
 		title: "Assignment 02 - Object-Oriented Programming",
-		date: "February 7, 2024",
+		date: "February 4, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Assignment_2_Objects.pdf" style="color: blue" target="_blank">
-                Assignment #2 (due February 21st)
+                Assignment #2 (due February 18th)
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Assignment 03 - Rat Race",
@@ -36,7 +36,7 @@ const ASSIGNMENTS = [
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Assignment_3_Rat_Race.pdf" style="color: blue" target="_blank">
-                Assignment #3 (due March 13th)
+                Assignment #3 (due March 11th)
             </a> <br> <br>
 		`,
 		show: false
@@ -47,7 +47,7 @@ const ASSIGNMENTS = [
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Assignment_4_Bank_Simulation.pdf" style="color: blue" target="_blank">
-                Assignment #4 (due March 27th)
+                Assignment #4 (due March 25th)
             </a> <br> <br>
 		`,
 		show: false
@@ -58,7 +58,7 @@ const ASSIGNMENTS = [
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Assignment_5_Bishops_Bridge.pdf" style="color: blue" target="_blank">
-                Assignment #5 (due April 10th)
+                Assignment #5 (due April 8th)
             </a> <br> <br>
 		`,
 		show: false
