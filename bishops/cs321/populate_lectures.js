@@ -158,7 +158,7 @@ const LECTURES = [
                 Inner Classes
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 10 - Linting, and Exceptions",
@@ -175,7 +175,7 @@ const LECTURES = [
                 Exceptions
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 11 - Java Generics",
