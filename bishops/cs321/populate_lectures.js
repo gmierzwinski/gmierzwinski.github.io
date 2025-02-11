@@ -148,7 +148,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 09 - VCS, & Inner Classes",
-		date: "February 14, 2024",
+		date: "February 11, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_08B.pptx" style="color: blue" target="_blank">
@@ -162,7 +162,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 10 - Linting, and Exceptions",
-		date: "February 19, 2024",
+		date: "February 13, 2024",
 		subtitle: "",
 		summary: `
             <a href="https://ensemble.ubishops.ca/Watch/t9A5Qoa7" style="color: blue" target="_blank">
