@@ -55,10 +55,10 @@ const LABS = [
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_05.pdf" style="color: blue" target="_blank">
-                Lab Instructions (due February 18th)
+                Lab Instructions (due February 25th)
             </a> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lab 06 - Orchestras",

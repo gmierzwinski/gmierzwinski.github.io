@@ -39,7 +39,7 @@ const ASSIGNMENTS = [
                 Assignment #3 (due March 11th)
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Assignment 04 - Bank Simulation",

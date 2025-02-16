@@ -162,7 +162,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 10 - Linting, and Exceptions",
-		date: "February 13, 2024",
+		date: "February 18, 2024",
 		subtitle: "",
 		summary: `
             <a href="https://ensemble.ubishops.ca/Watch/t9A5Qoa7" style="color: blue" target="_blank">
@@ -179,14 +179,14 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 11 - Java Generics",
-		date: "February 21, 2024",
+		date: "February 20, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_11.pptx" style="color: blue" target="_blank">
                 Generics
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 12 - Midterm Review",
