@@ -165,7 +165,7 @@ const LECTURES = [
 		date: "February 18, 2024",
 		subtitle: "",
 		summary: `
-            <a href="https://ensemble.ubishops.ca/Watch/t9A5Qoa7" style="color: blue" target="_blank">
+            <a href="resources/CS321_Linting_Example.mp4" style="color: blue" target="_blank">
                 How to Auto-Format Your Code
             </a> <br>
             <a href="resources/CS321_Lecture_10A.pptx" style="color: blue" target="_blank">
