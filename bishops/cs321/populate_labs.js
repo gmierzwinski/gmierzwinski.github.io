@@ -62,14 +62,14 @@ const LABS = [
 	},
 	{
 		title: "Lab 06 - Orchestras",
-		date: "February 26, 2024",
+		date: "February 25, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_06.pdf" style="color: blue" target="_blank">
-                Lab Instructions (due February 25th)
+                Lab Instructions (due March 11th)
             </a> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lab 07 - Java GUI Building (Bonus Lab)",

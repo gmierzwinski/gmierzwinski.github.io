@@ -197,7 +197,7 @@ const LECTURES = [
                 Midterm Review
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 13 - Rounding off OOP, and Java Swing GUIs",
@@ -217,7 +217,7 @@ const LECTURES = [
                 Graphics
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 14 - Intro to Design Patterns",
