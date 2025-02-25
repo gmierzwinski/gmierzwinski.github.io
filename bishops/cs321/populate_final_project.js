@@ -14,7 +14,7 @@ const PROJECT_SECTIONS = [
                 PDF Instructions (See here for Grading Criteria)
             </a> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Program (80%)",
@@ -56,7 +56,7 @@ const PROJECT_SECTIONS = [
 			</li>
 			</ul>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Skeleton Program",
@@ -151,7 +151,7 @@ const PROJECT_SECTIONS = [
 			</li>
 			</ul>
 		`,
-		show: false
+		show: true
 	}
 ];
 
