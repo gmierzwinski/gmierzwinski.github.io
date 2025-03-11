@@ -228,7 +228,7 @@ const LECTURES = [
                 Intro to Design Patterns
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 15 - Design Patterns (Observer, Template, Singleton, Adapter)",

@@ -81,7 +81,7 @@ const LABS = [
             </a> <br>
             If this lab is completed, then the lowest scored lab will be removed from the overall grade. <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lab 08 - Patterns, and derivation",

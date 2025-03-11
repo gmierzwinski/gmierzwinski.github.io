@@ -32,7 +32,7 @@ const ASSIGNMENTS = [
 	},
 	{
 		title: "Assignment 03 - Rat Race",
-		date: "February 26, 2024",
+		date: "February 25, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Assignment_3_Rat_Race.pdf" style="color: blue" target="_blank">
@@ -43,18 +43,18 @@ const ASSIGNMENTS = [
 	},
 	{
 		title: "Assignment 04 - Bank Simulation",
-		date: "March 13, 2024",
+		date: "March 11, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Assignment_4_Bank_Simulation.pdf" style="color: blue" target="_blank">
                 Assignment #4 (due March 25th)
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Assignment 05 - Bishop's Bridge",
-		date: "March 27, 2024",
+		date: "March 25, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Assignment_5_Bishops_Bridge.pdf" style="color: blue" target="_blank">
