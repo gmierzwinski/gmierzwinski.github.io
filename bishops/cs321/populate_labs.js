@@ -85,14 +85,14 @@ const LABS = [
 	},
 	{
 		title: "Lab 08 - Patterns, and derivation",
-		date: "March 18, 2024",
+		date: "March 17, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_08.pdf" style="color: blue" target="_blank">
-                Lab Instructions (due by March 18th)
+                Lab Instructions (due by March 25th)
             </a> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lab 09 - Tripleton, and Observer Pattern",
@@ -107,11 +107,11 @@ const LABS = [
 	},
 	{
 		title: "Lab 10 - The Multithreaded Cook",
-		date: "April 2, 2024",
+		date: "April 1, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_10.pdf" style="color: blue" target="_blank">
-                Lab Instructions (due by April 1st)
+                Lab Instructions (due by April 8th)
             </a> <br>
 		`,
 		show: false
