@@ -100,10 +100,10 @@ const LABS = [
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_09.pdf" style="color: blue" target="_blank">
-                Lab Instructions (due by March 25th)
+                Lab Instructions (due by April 1st)
             </a> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lab 10 - The Multithreaded Cook",

@@ -259,7 +259,7 @@ const LECTURES = [
                 Threads
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 17 - Thread Synchronization, and Semaphores",

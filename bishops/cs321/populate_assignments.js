@@ -47,7 +47,7 @@ const ASSIGNMENTS = [
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Assignment_4_Bank_Simulation.pdf" style="color: blue" target="_blank">
-                Assignment #4 (due March 25th)
+                Assignment #4 (due March 27th)
             </a> <br> <br>
 		`,
 		show: true
@@ -61,7 +61,7 @@ const ASSIGNMENTS = [
                 Assignment #5 (due April 8th)
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 ];
 
