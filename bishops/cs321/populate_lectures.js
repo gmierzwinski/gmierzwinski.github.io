@@ -273,7 +273,7 @@ const LECTURES = [
                 Semaphores
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 ];
 
