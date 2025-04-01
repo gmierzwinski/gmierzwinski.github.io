@@ -114,7 +114,7 @@ const LABS = [
                 Lab Instructions (due by April 8th)
             </a> <br>
 		`,
-		show: false
+		show: true
 	}
 ];
 
