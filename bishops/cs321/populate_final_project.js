@@ -6,6 +6,13 @@ a JSON defined in this file.
 
 const PROJECT_SECTIONS = [
 	{
+		title: "More information provided later in the semester.",
+		date: "",
+		subtitle: "",
+		summary: ``,
+		show: true
+	},
+	{
 		title: `<div style="color:red">Due: April 24th (midnight)`,
 		date: "",
 		subtitle: "",
@@ -14,7 +21,7 @@ const PROJECT_SECTIONS = [
                 PDF Instructions (See here for Grading Criteria)
             </a> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Program (80%)",
@@ -56,7 +63,7 @@ const PROJECT_SECTIONS = [
 			</li>
 			</ul>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Skeleton Program",
@@ -151,7 +158,7 @@ const PROJECT_SECTIONS = [
 			</li>
 			</ul>
 		`,
-		show: true
+		show: false
 	}
 ];
 

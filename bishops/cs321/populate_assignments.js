@@ -17,7 +17,7 @@ const ASSIGNMENTS = [
                 Assignment #1 Input
             </a> <br> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Assignment 02 - Object-Oriented Programming",
@@ -28,7 +28,7 @@ const ASSIGNMENTS = [
                 Assignment #2 (due February 18th)
             </a> <br> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Assignment 03 - Rat Race",
@@ -39,7 +39,7 @@ const ASSIGNMENTS = [
                 Assignment #3 (due March 11th)
             </a> <br> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Assignment 04 - Bank Simulation",
@@ -50,7 +50,7 @@ const ASSIGNMENTS = [
                 Assignment #4 (due March 27th)
             </a> <br> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Assignment 05 - Bishop's Bridge",
@@ -61,7 +61,7 @@ const ASSIGNMENTS = [
                 Assignment #5 (due April 8th)
             </a> <br> <br>
 		`,
-		show: true
+		show: false
 	},
 ];
 
