@@ -7,7 +7,7 @@ a JSON defined in this file.
 const LECTURES = [
 	{
 		title: "Lecture 01 - Introduction, Course Outline, and Java Basics",
-		date: "January 7, 2025",
+		date: "January 7, 2026",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Course_Outline.pdf" style="color: blue" target="_blank">

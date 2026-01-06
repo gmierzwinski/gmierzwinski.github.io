@@ -7,7 +7,7 @@ a JSON defined in this file.
 const LABS = [
 	{
 		title: "Lab 01 - Setup and Hello World",
-		date: "January 12, 2025",
+		date: "January 12, 2026",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_01.pdf" style="color: blue" target="_blank">
