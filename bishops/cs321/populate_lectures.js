@@ -29,7 +29,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 02 - Java Basics I",
-		date: "January 14, 2025",
+		date: "January 12, 2026",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_02.pptx" style="color: blue" target="_blank">
@@ -44,11 +44,11 @@ const LECTURES = [
                 Java Statements
             </a>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 03 - Control, Strings, and Arrays",
-		date: "January 16, 2025",
+		date: "January 14, 2026",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_03A.ppt" style="color: blue" target="_blank">
@@ -58,7 +58,7 @@ const LECTURES = [
                 Strings, and Arrays
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 04 - Methods, Objects, and Assignment #1",
