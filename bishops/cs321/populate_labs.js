@@ -22,10 +22,10 @@ const LABS = [
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_02.pdf" style="color: blue" target="_blank">
-                Lab Instructions (due January 28th)
+                Lab Instructions (due January 26th)
             </a> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lab 03 - Objects, and Class Methods",

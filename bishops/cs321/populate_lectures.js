@@ -62,17 +62,11 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 04 - Methods, Objects, and Assignment #1",
-		date: "January 21, 2025",
+		date: "January 21, 2026",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_04.pptx" style="color: blue" target="_blank">
                 Methods, and Objects
-            </a> <br>
-            <a href="resources/CS321_Assignment_1_Java_Arrays.pdf" style="color: blue" target="_blank">
-                Assignment #1
-            </a> <br>
-            <a href="resources/CS321_Assignment_1_Input.txt" style="color: blue" target="_blank">
-                Assignment #1 Input
             </a> <br>
             <a href="https://github.com/ubishops-cs321/github-starter-course" style="color: blue" target="_blank">
                 Github Starter Coruse
@@ -83,15 +77,21 @@ const LECTURES = [
                 Parameter Passing
             </a>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 05 - Industrial Class Design",
-		date: "January 24, 2024",
+		date: "January 26, 2026",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_05.pptx" style="color: blue" target="_blank">
                 Industrial Class Design
+            </a> <br>
+            <a href="resources/CS321_Assignment_1_Java_Arrays.pdf" style="color: blue" target="_blank">
+                Assignment #1
+            </a> <br>
+            <a href="resources/CS321_Assignment_1_Input.txt" style="color: blue" target="_blank">
+                Assignment #1 Input
             </a> <br>
             <a href="resources/CloningExample.java" style="color: blue" target="_blank">
                 Java Cloning Example Code
