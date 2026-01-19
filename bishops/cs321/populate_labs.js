@@ -18,7 +18,7 @@ const LABS = [
 	},
 	{
 		title: "Lab 02 - Arrays",
-		date: "January 21, 2025",
+		date: "January 19, 2025",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_02.pdf" style="color: blue" target="_blank">
