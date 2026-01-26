@@ -7,17 +7,17 @@ a JSON defined in this file.
 const ASSIGNMENTS = [
 	{
 		title: "Assignment 01 - Java Arrays",
-		date: "January 21, 2024",
+		date: "January 26, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Assignment_1_Java_Arrays.pdf" style="color: blue" target="_blank">
-                Assignment #1 (due February 4th)
+                Assignment #1 (due February 9th)
             </a> <br>
             <a href="resources/CS321_Assignment_1_Input.txt" style="color: blue" target="_blank">
                 Assignment #1 Input
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Assignment 02 - Object-Oriented Programming",
