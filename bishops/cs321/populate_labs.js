@@ -36,7 +36,7 @@ const LABS = [
                 Lab Instructions (due February 4th)
             </a> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lab 04 - Interfaces, and Inheritance",
