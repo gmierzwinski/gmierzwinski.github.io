@@ -29,11 +29,11 @@ const LABS = [
 	},
 	{
 		title: "Lab 03 - Objects, and Class Methods",
-		date: "January 29, 2024",
+		date: "January 26, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_03.pdf" style="color: blue" target="_blank">
-                Lab Instructions (due February 4th)
+                Lab Instructions (due February 2nd)
             </a> <br>
 		`,
 		show: true
