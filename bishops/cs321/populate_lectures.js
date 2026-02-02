@@ -101,14 +101,14 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 06 - Inheritance & Polymorphism",
-		date: "January 29, 2024",
+		date: "February 2, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_06.pptx" style="color: blue" target="_blank">
                 Inheritance & Polymorphism
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 07 - Abstract Classes, & Interfaces",
@@ -121,15 +121,12 @@ const LECTURES = [
             <a href="resources/CS321_Lecture_07B.pptx" style="color: blue" target="_blank">
                 Abstract Classes, and Interfacecs
             </a> <br>
-            <a href="resources/CS321_Assignment_2_Objects.pdf" style="color: blue" target="_blank">
-                Assignment #2
-            </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 08 - Abstract Classes, Interfaces, & UML",
-		date: "February 6, 2024",
+		date: "February 9, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_07B.pptx" style="color: blue" target="_blank">
@@ -137,6 +134,9 @@ const LECTURES = [
             </a> <br>
             <a href="resources/CS321_Lecture_08A.pptx" style="color: blue" target="_blank">
                 UML Quick Overview
+            </a> <br>
+            <a href="resources/CS321_Assignment_2_Objects.pdf" style="color: blue" target="_blank">
+                Assignment #2
             </a> <br> <br>
             <hr>
             <b>Additional Resources:</b> <br>
