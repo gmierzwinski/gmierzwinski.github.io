@@ -47,7 +47,7 @@ const LABS = [
                 Lab Instructions (due February 11th)
             </a> <br>
 		`,
-		show: true
+		show: false
 	},
 	{
 		title: "Lab 05 - Midterm Review with Iterators",
