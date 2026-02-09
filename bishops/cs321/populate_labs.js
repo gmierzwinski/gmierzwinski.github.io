@@ -40,14 +40,14 @@ const LABS = [
 	},
 	{
 		title: "Lab 04 - Interfaces, and Inheritance",
-		date: "February 4, 2024",
+		date: "February 9, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_04.pdf" style="color: blue" target="_blank">
-                Lab Instructions (due February 11th)
+                Lab Instructions (due February 16th)
             </a> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lab 05 - Midterm Review with Iterators",

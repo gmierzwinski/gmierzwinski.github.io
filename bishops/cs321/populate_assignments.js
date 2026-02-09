@@ -21,14 +21,14 @@ const ASSIGNMENTS = [
 	},
 	{
 		title: "Assignment 02 - Object-Oriented Programming",
-		date: "February 4, 2024",
+		date: "February 9, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Assignment_2_Objects.pdf" style="color: blue" target="_blank">
-                Assignment #2 (due February 18th)
+                Assignment #2 (due February 23rd)
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Assignment 03 - Rat Race",

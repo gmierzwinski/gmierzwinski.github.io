@@ -125,18 +125,29 @@ const LECTURES = [
 		show: true
 	},
 	{
-		title: "Lecture 08 - Abstract Classes, Interfaces, & UML",
+		title: "Lecture 08 - VCS",
 		date: "February 9, 2024",
 		subtitle: "",
 		summary: `
-            <a href="resources/CS321_Lecture_07B.pptx" style="color: blue" target="_blank">
-                Abstract Classes, and Interfacecs
-            </a> <br>
-            <a href="resources/CS321_Lecture_08A.pptx" style="color: blue" target="_blank">
-                UML Quick Overview
+            <a href="resources/CS321_Lecture_08B.pptx" style="color: blue" target="_blank">
+                VCS, Git, & Github
             </a> <br>
             <a href="resources/CS321_Assignment_2_Objects.pdf" style="color: blue" target="_blank">
                 Assignment #2
+            </a> <br> <br>
+		`,
+		show: true
+	},
+	{
+		title: "Lecture 09 - UML, & Inner Classes",
+		date: "February 11, 2024",
+		subtitle: "",
+		summary: `
+            <a href="resources/CS321_Lecture_08A.pptx" style="color: blue" target="_blank">
+                UML Quick Overview
+            </a> <br>
+            <a href="resources/CS321_Lecture_09.pptx" style="color: blue" target="_blank">
+                Inner Classes
             </a> <br> <br>
             <hr>
             <b>Additional Resources:</b> <br>
@@ -144,21 +155,7 @@ const LECTURES = [
                 UML Detailed
             </a>
 		`,
-		show: false
-	},
-	{
-		title: "Lecture 09 - VCS, & Inner Classes",
-		date: "February 11, 2024",
-		subtitle: "",
-		summary: `
-            <a href="resources/CS321_Lecture_08B.pptx" style="color: blue" target="_blank">
-                VCS, Git, & Github
-            </a> <br> 
-            <a href="resources/CS321_Lecture_09.pptx" style="color: blue" target="_blank">
-                Inner Classes
-            </a> <br> <br>
-		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 10 - Linting, and Exceptions",
