@@ -159,7 +159,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 10 - Linting, and Exceptions",
-		date: "February 18, 2024",
+		date: "February 16, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Linting_Example.mp4" style="color: blue" target="_blank">
@@ -172,18 +172,18 @@ const LECTURES = [
                 Exceptions
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 11 - Java Generics",
-		date: "February 20, 2024",
+		date: "February 18, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_11.pptx" style="color: blue" target="_blank">
                 Generics
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 12 - Midterm Review",
