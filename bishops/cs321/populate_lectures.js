@@ -194,11 +194,11 @@ const LECTURES = [
                 Midterm Review
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 13 - Rounding off OOP, and Java Swing GUIs",
-		date: "March 11, 2024",
+		date: "March 9, 2024",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_13.pptx" style="color: blue" target="_blank">
@@ -214,7 +214,7 @@ const LECTURES = [
                 Graphics
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 14 - Intro to Design Patterns",
