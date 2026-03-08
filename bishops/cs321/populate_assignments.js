@@ -36,7 +36,7 @@ const ASSIGNMENTS = [
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Assignment_3_Rat_Race.pdf" style="color: blue" target="_blank">
-                Assignment #3 (due March 9th)
+                Assignment #3 (due March 16th)
             </a> <br> <br>
 		`,
 		show: true

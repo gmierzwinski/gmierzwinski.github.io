@@ -29,7 +29,7 @@ const LABS = [
 	},
 	{
 		title: "Lab 03 - Objects, and Class Methods",
-		date: "January 26, 2024",
+		date: "January 26, 2026",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_03.pdf" style="color: blue" target="_blank">
@@ -40,7 +40,7 @@ const LABS = [
 	},
 	{
 		title: "Lab 04 - Interfaces, and Inheritance",
-		date: "February 9, 2024",
+		date: "February 9, 2026",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_04.pdf" style="color: blue" target="_blank">
@@ -51,7 +51,7 @@ const LABS = [
 	},
 	{
 		title: "Lab 05 - Midterm Review with Iterators",
-		date: "February 16, 2024",
+		date: "February 16, 2026",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_05.pdf" style="color: blue" target="_blank">
@@ -62,7 +62,7 @@ const LABS = [
 	},
 	{
 		title: "Lab 06 - Orchestras",
-		date: "February 23, 2024",
+		date: "February 23, 2026",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_06.pdf" style="color: blue" target="_blank">
@@ -73,7 +73,7 @@ const LABS = [
 	},
 	{
 		title: "Lab 07 - Java GUI Building (Bonus Lab)",
-		date: "March 11, 2024",
+		date: "March 9, 2026",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_07.pdf" style="color: blue" target="_blank">
@@ -81,11 +81,11 @@ const LABS = [
             </a> <br>
             If this lab is completed, then the lowest scored lab will be removed from the overall grade. <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lab 08 - Patterns, and derivation",
-		date: "March 17, 2024",
+		date: "March 17, 2026",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_08.pdf" style="color: blue" target="_blank">
@@ -96,7 +96,7 @@ const LABS = [
 	},
 	{
 		title: "Lab 09 - Tripleton, and Observer Pattern",
-		date: "March 25, 2024",
+		date: "March 25, 2026",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_09.pdf" style="color: blue" target="_blank">
@@ -107,7 +107,7 @@ const LABS = [
 	},
 	{
 		title: "Lab 10 - The Multithreaded Cook",
-		date: "April 1, 2024",
+		date: "April 1, 2026",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_10.pdf" style="color: blue" target="_blank">

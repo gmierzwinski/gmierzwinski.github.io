@@ -101,7 +101,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 06 - Inheritance & Polymorphism",
-		date: "February 2, 2024",
+		date: "February 2, 2026",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_06.pptx" style="color: blue" target="_blank">
@@ -112,7 +112,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 07 - Abstract Classes, & Interfaces",
-		date: "February 4, 2024",
+		date: "February 4, 2026",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_07A.pptx" style="color: blue" target="_blank">
@@ -126,7 +126,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 08 - VCS",
-		date: "February 9, 2024",
+		date: "February 9, 2026",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_08B.pptx" style="color: blue" target="_blank">
@@ -140,7 +140,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 09 - UML, & Inner Classes",
-		date: "February 11, 2024",
+		date: "February 11, 2026",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_08A.pptx" style="color: blue" target="_blank">
@@ -159,7 +159,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 10 - Linting, and Exceptions",
-		date: "February 16, 2024",
+		date: "February 16, 2026",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Linting_Example.mp4" style="color: blue" target="_blank">
@@ -176,7 +176,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 11 - Java Generics",
-		date: "February 18, 2024",
+		date: "February 18, 2026",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_11.pptx" style="color: blue" target="_blank">
@@ -187,7 +187,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 12 - Midterm Review",
-		date: "February 26, 2024",
+		date: "February 26, 2026",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_12.pptx" style="color: blue" target="_blank">
@@ -198,7 +198,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 13 - Rounding off OOP, and Java Swing GUIs",
-		date: "March 9, 2024",
+		date: "March 9, 2026",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_13.pptx" style="color: blue" target="_blank">
@@ -218,18 +218,18 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 14 - Intro to Design Patterns",
-		date: "March 13, 2024",
+		date: "March 11, 2026",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_14.pptx" style="color: blue" target="_blank">
                 Intro to Design Patterns
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 15 - Design Patterns (Observer, Template, Singleton, Adapter)",
-		date: "March 18, 2024 - March 21, 2024",
+		date: "March 18, 2026 - March 21, 2026",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_15D.pptx" style="color: blue" target="_blank">
@@ -249,7 +249,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 16 - Intro to Threads, and Multi-threaded Programming",
-		date: "March 25, 2024",
+		date: "March 25, 2026",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_16.pptx" style="color: blue" target="_blank">
@@ -260,7 +260,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 17 - Thread Synchronization, and Semaphores",
-		date: "March 27, 2024",
+		date: "March 27, 2026",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_17A.pptx" style="color: blue" target="_blank">
