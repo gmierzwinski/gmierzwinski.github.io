@@ -229,7 +229,7 @@ const LECTURES = [
 	},
 	{
 		title: "Lecture 15 - Design Patterns (Observer, Template, Singleton, Adapter)",
-		date: "March 18, 2026 - March 21, 2026",
+		date: "March 15, 2026 - March 18, 2026",
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lecture_15D.pptx" style="color: blue" target="_blank">
@@ -245,7 +245,7 @@ const LECTURES = [
                 Singleton Pattern
             </a> <br> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lecture 16 - Intro to Threads, and Multi-threaded Programming",
