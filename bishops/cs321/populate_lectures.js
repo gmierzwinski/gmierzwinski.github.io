@@ -243,6 +243,9 @@ const LECTURES = [
             </a> <br>
             <a href="resources/CS321_Lecture_15C.pptx" style="color: blue" target="_blank">
                 Singleton Pattern
+            </a> <br>
+            <a href="resources/CS321_Lecture_15E.pptx" style="color: blue" target="_blank">
+                Visitor Pattern
             </a> <br> <br>
 		`,
 		show: true
