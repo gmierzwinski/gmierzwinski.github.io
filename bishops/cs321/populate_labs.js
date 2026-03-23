@@ -103,7 +103,7 @@ const LABS = [
                 Lab Instructions (due by March 30th)
             </a> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Lab 10 - The Multithreaded Cook",
