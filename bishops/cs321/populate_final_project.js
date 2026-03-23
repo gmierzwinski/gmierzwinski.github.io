@@ -10,7 +10,7 @@ const PROJECT_SECTIONS = [
 		date: "",
 		subtitle: "",
 		summary: ``,
-		show: true
+		show: false
 	},
 	{
 		title: `<div style="color:red">Due: April 24th (midnight)`,
@@ -21,7 +21,7 @@ const PROJECT_SECTIONS = [
                 PDF Instructions (See here for Grading Criteria)
             </a> <br>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Program (80%)",
@@ -63,7 +63,7 @@ const PROJECT_SECTIONS = [
 			</li>
 			</ul>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Skeleton Program",
@@ -79,7 +79,7 @@ const PROJECT_SECTIONS = [
 			<li>Statistics: This is a singleton that will hold the statistics for the simulation. You will need to modify it to add new statistics and provide a way to output them.</li>
 			<li>Main: This is where the program starts from. It should be used for testing. You will find helper methods for running tests with different forms of input.</li>
 			</ul>
-			<p>Be sure to read through all the code in those files, there are hints to help you scattered throughout. You are free to modify them but the final product needs to do the same thing as the original (I suggest not changing the basic functionality).</p>
+			<p>Be sure to read through all the code in those files, there are hints to help you scattered throughout. You are free to slightly modify them but the final product needs to do the same thing as the original (do not change the basic functionality).</p>
 			<p>The skeleton program is straightforward:</p>
 			<ul>
 			<li><p class="first">It creates an input object called SimulationInput and adds the input to it.</p>
@@ -106,7 +106,7 @@ const PROJECT_SECTIONS = [
 			</ul>
 			<p>Your units are all Runnable so they absolutely must be run as a Thread. They need to output information as they perform their actions as well, they can’t stay silent in the background (unless that is purposeful). The simulation must be entirely multi-threaded.</p>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Testing (10%)",
@@ -117,7 +117,7 @@ const PROJECT_SECTIONS = [
 			<p>There is only one way around this: build unit tests for all of your code. These tests only run a single portion of your code (e.g. one test for a single method in a class). Given the time constraint, building unit tests is unfeasible as it can take as much, or more time to write than the source code.
 			In this case, you can test your program by running a handful of known successful tests, along with a collection of tests that probe edge cases in your program (e.g. can it handle 0 actions/second?).</p>
 		`,
-		show: false
+		show: true
 	},
 	{
 		title: "Design Decisions Report (10%)",
@@ -158,7 +158,7 @@ const PROJECT_SECTIONS = [
 			</li>
 			</ul>
 		`,
-		show: false
+		show: true
 	}
 ];
 
