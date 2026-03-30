@@ -111,10 +111,10 @@ const LABS = [
 		subtitle: "",
 		summary: `
             <a href="resources/CS321_Lab_10.pdf" style="color: blue" target="_blank">
-                Lab Instructions (due by April 6th)
+                Lab Instructions (due by April 8th)
             </a> <br>
 		`,
-		show: false
+		show: true
 	}
 ];
 
